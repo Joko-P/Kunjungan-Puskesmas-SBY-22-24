@@ -1,0 +1,577 @@
+﻿_id,Periode,Wilayah,Kecamatan,Nama Puskesmas,Poli,Baru,Lama,Total Kunjungan
+1,Desember,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,BATRA,6,31,37
+2,Desember,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,GIGI,96,347,443
+3,Desember,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,GIZI,2,8,10
+4,Desember,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,KIA,185,707,892
+5,Desember,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,PSIKOLOGI,4,13,17
+6,Desember,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,SANITASI,0,3,3
+7,Desember,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,UMUM,224,1954,2178
+8,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,BATRA,2,54,56
+9,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,FARMASI,0,1,1
+10,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,GIGI,40,237,277
+11,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,GIZI,3,8,11
+12,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,KIA,65,312,377
+13,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,LABORATORIUM,1,0,1
+14,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,LANSIA,14,260,274
+15,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,PSIKOLOGI,3,13,16
+16,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,SANITASI,3,8,11
+17,Desember,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,UMUM,152,763,915
+18,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,BATRA,1,36,37
+19,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,GIGI,51,338,389
+20,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,GIZI,1,0,1
+21,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,INSTALASI GAWAT DARURAT,15,6,21
+22,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,KIA,134,626,760
+23,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,LABORATORIUM,1,4,5
+24,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,LANSIA,13,469,482
+25,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,LOKET,0,1,1
+26,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,P2M,4,94,98
+27,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,PSIKOLOGI,0,8,8
+28,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,RAWAT INAP,0,1,1
+29,Desember,Surabaya Barat,Tandes,Puskesmas Balongsari,UMUM,227,1266,1493
+30,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,BATRA,3,30,33
+31,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,GIGI,35,275,310
+32,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,GIZI,11,21,32
+33,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,HAMIL,3,33,36
+34,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,INSTALASI GAWAT DARURAT,0,1,1
+35,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,KIA,55,410,465
+36,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,LANSIA,10,203,213
+37,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,PSIKOLOGI,13,22,35
+38,Desember,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,UMUM,129,1104,1233
+39,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,BATRA,0,26,26
+40,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,GIGI,59,348,407
+41,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,INSTALASI GAWAT DARURAT,37,111,148
+42,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,KIA,91,589,680
+43,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PARU,27,209,236
+44,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PKPR,31,32,63
+45,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PSIKOLOGI,1,7,8
+46,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,RAWAT INAP,1,1,2
+47,Desember,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,UMUM,278,2751,3029
+48,Desember,Surabaya Barat,Pakal,Puskesmas Benowo,BATRA,0,27,27
+49,Desember,Surabaya Barat,Pakal,Puskesmas Benowo,GIGI,102,634,736
+50,Desember,Surabaya Barat,Pakal,Puskesmas Benowo,GIZI,44,177,221
+51,Desember,Surabaya Barat,Pakal,Puskesmas Benowo,KIA,197,992,1189
+52,Desember,Surabaya Barat,Pakal,Puskesmas Benowo,LABORATORIUM,0,3,3
+53,Desember,Surabaya Barat,Pakal,Puskesmas Benowo,LANSIA,14,637,651
+54,Desember,Surabaya Barat,Pakal,Puskesmas Benowo,PSIKOLOGI,4,7,11
+55,Desember,Surabaya Barat,Pakal,Puskesmas Benowo,UMUM,272,2244,2516
+56,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,BATRA,3,17,20
+57,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,GIGI,77,540,617
+58,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,GIZI,4,16,20
+59,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,INSTALASI GAWAT DARURAT,10,5,15
+60,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,KIA,179,740,919
+61,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,LANSIA,11,289,300
+62,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,PSIKOLOGI,3,5,8
+63,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,RAWAT INAP,9,6,15
+64,Desember,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,UMUM,235,1397,1632
+65,Desember,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,BATRA,10,25,35
+66,Desember,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,GIGI,36,190,226
+67,Desember,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,INSTALASI GAWAT DARURAT,0,2,2
+68,Desember,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,KIA,165,718,883
+69,Desember,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,LANSIA,25,533,558
+70,Desember,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,PSIKOLOGI,4,4,8
+71,Desember,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,UMUM,322,1567,1889
+72,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,BATRA,2,40,42
+73,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,FARMASI,2,1,3
+74,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,GIGI,57,393,450
+75,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,GIZI,2,3,5
+76,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,INSTALASI GAWAT DARURAT,27,29,56
+77,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,KIA,184,775,959
+78,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,LABORATORIUM,11,8,19
+79,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,LANSIA,43,1301,1344
+80,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,PARU,0,42,42
+81,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Poli PCR-SWAB,3,6,9
+82,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,PSIKOLOGI,6,23,29
+83,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,RAWAT INAP,5,54,59
+84,Desember,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,UMUM,477,1880,2357
+85,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,BATRA,1,34,35
+86,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,GIGI,21,276,297
+87,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,GIZI,0,11,11
+88,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,INSTALASI GAWAT DARURAT,18,43,61
+89,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,KIA,110,785,895
+90,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,LANSIA,5,490,495
+91,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,PSIKOLOGI,3,7,10
+92,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,RAWAT INAP,9,11,20
+93,Desember,Surabaya Utara,Krembangan,Puskesmas Dupak,UMUM,143,1754,1897
+94,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,BATRA,3,28,31
+95,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,GIGI,57,345,402
+96,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,GIZI,65,93,158
+97,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,KIA,187,1089,1276
+98,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,LANSIA,30,656,686
+99,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,LOKET,0,1,1
+100,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,PARU,3,131,134
+101,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,PSIKOLOGI,1,23,24
+102,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,RAWAT INAP,1,0,1
+103,Desember,Surabaya Timur,Tambaksari,Puskesmas Gading,UMUM,370,2427,2797
+104,Desember,Surabaya Selatan,Gayungan,Puskesmas Gayungan,BATRA,3,35,38
+105,Desember,Surabaya Selatan,Gayungan,Puskesmas Gayungan,GIGI,73,672,745
+106,Desember,Surabaya Selatan,Gayungan,Puskesmas Gayungan,GIZI,8,49,57
+107,Desember,Surabaya Selatan,Gayungan,Puskesmas Gayungan,KIA,133,613,746
+108,Desember,Surabaya Selatan,Gayungan,Puskesmas Gayungan,LABORATORIUM,0,1,1
+109,Desember,Surabaya Selatan,Gayungan,Puskesmas Gayungan,LANSIA,21,741,762
+110,Desember,Surabaya Selatan,Gayungan,Puskesmas Gayungan,SANITASI,0,2,2
+111,Desember,Surabaya Selatan,Gayungan,Puskesmas Gayungan,UMUM,417,1629,2046
+112,Desember,Surabaya Pusat,Bubutan,Puskesmas Gundih,BATRA,0,6,6
+113,Desember,Surabaya Pusat,Bubutan,Puskesmas Gundih,GIGI,10,282,292
+114,Desember,Surabaya Pusat,Bubutan,Puskesmas Gundih,KIA,38,725,763
+115,Desember,Surabaya Pusat,Bubutan,Puskesmas Gundih,LANSIA,4,462,466
+116,Desember,Surabaya Pusat,Bubutan,Puskesmas Gundih,PARU,0,108,108
+117,Desember,Surabaya Pusat,Bubutan,Puskesmas Gundih,PSIKOLOGI,3,11,14
+118,Desember,Surabaya Pusat,Bubutan,Puskesmas Gundih,UMUM,45,1705,1750
+119,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,BATRA,0,5,5
+120,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,GIGI,90,265,355
+121,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,GIZI,33,50,83
+122,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,INSTALASI GAWAT DARURAT,0,2,2
+123,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,KIA,175,599,774
+124,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,LANSIA,41,674,715
+125,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,PKPR,23,33,56
+126,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,PSIKOLOGI,4,15,19
+127,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,RAWAT INAP,1,4,5
+128,Desember,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,UMUM,338,1500,1838
+129,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,BATRA,1,59,60
+130,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,GIGI,130,598,728
+131,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,GIZI,6,30,36
+132,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,INSTALASI GAWAT DARURAT,52,37,89
+133,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,KIA,260,1096,1356
+134,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,LANSIA,106,1305,1411
+135,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,PSIKOLOGI,4,21,25
+136,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,RAWAT INAP,27,28,55
+137,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,SANITASI,0,2,2
+138,Desember,Surabaya Selatan,Wonokromo,Puskesmas Jagir,UMUM,394,2683,3077
+139,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,BATRA,2,44,46
+140,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,FARMASI,92,776,868
+141,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,GIGI,52,279,331
+142,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,GIZI,11,30,41
+143,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,KIA,77,602,679
+144,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,LABORATORIUM,23,143,166
+145,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,LANSIA,16,370,386
+146,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,PSIKOLOGI,18,38,56
+147,Desember,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,UMUM,230,1367,1597
+148,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,BATRA,1,11,12
+149,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,GIGI,79,295,374
+150,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,GIZI,6,26,32
+151,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,INSTALASI GAWAT DARURAT,4,4,8
+152,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,KIA,34,168,202
+153,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,LANSIA,11,268,279
+154,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,PSIKOLOGI,10,22,32
+155,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,SANITASI,0,7,7
+156,Desember,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,UMUM,344,1557,1901
+157,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,ANAK,32,240,272
+158,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,BATRA,1,46,47
+159,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,GIGI,39,296,335
+160,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,GIZI,1,4,5
+161,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,KIA,70,256,326
+162,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,LANSIA,30,417,447
+163,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,P2M,0,57,57
+164,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,PSIKOLOGI,3,4,7
+165,Desember,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,UMUM,239,1231,1470
+166,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,BATRA,6,43,49
+167,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,GIGI,54,288,342
+168,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,GIGI SPESIALIS ,6,449,455
+169,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,GIZI,11,70,81
+170,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,KIA,172,938,1110
+171,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,LANSIA,9,250,259
+172,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,PARU,7,93,100
+173,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,PSIKOLOGI,4,39,43
+174,Desember,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,UMUM,366,2492,2858
+175,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,ANAK,66,452,518
+176,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,BATRA,3,88,91
+177,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,GIGI,91,347,438
+178,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,GIZI,3,5,8
+179,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,INSTALASI GAWAT DARURAT,23,35,58
+180,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,KIA,105,559,664
+181,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,LABORATORIUM,8,37,45
+182,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,LANSIA,35,629,664
+183,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,MEDICAL CHECK UP,15,19,34
+184,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,PSIKOLOGI,18,29,47
+185,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,RAWAT INAP,3,13,16
+186,Desember,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,UMUM,401,2637,3038
+187,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,BATRA,3,109,112
+188,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,FARMASI,11,125,136
+189,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,GIGI,58,437,495
+190,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,GIZI,0,3,3
+191,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,INSTALASI GAWAT DARURAT,4,9,13
+192,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,KIA,106,646,752
+193,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,LABORATORIUM,2,22,24
+194,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,PARU,5,106,111
+195,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,PSIKOLOGI,33,47,80
+196,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,UMUM,255,3017,3272
+197,Desember,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,VCT,23,195,218
+198,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,BATRA,4,35,39
+199,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,GIGI,77,482,559
+200,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,GIZI,15,40,55
+201,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,INSTALASI GAWAT DARURAT,16,15,31
+202,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,KIA,248,938,1186
+203,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,LANSIA,41,1090,1131
+204,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,PARU,1,60,61
+205,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,PSIKOLOGI,2,27,29
+206,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,RAWAT INAP,1,3,4
+207,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,UMUM,321,2205,2526
+208,Desember,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,VCT,7,110,117
+209,Desember,Surabaya Utara,Bulak,Puskesmas Kenjeran,BATRA,1,15,16
+210,Desember,Surabaya Utara,Bulak,Puskesmas Kenjeran,GIGI,54,362,416
+211,Desember,Surabaya Utara,Bulak,Puskesmas Kenjeran,GIZI,3,14,17
+212,Desember,Surabaya Utara,Bulak,Puskesmas Kenjeran,KIA,150,553,703
+213,Desember,Surabaya Utara,Bulak,Puskesmas Kenjeran,PSIKOLOGI,0,4,4
+214,Desember,Surabaya Utara,Bulak,Puskesmas Kenjeran,UMUM,232,1739,1971
+215,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,BATRA,4,18,22
+216,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,GIGI,42,203,245
+217,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,GIZI,0,1,1
+218,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,INSTALASI GAWAT DARURAT,3,0,3
+219,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,KIA,131,433,564
+220,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,LABORATORIUM,0,2,2
+221,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,LANSIA,13,261,274
+222,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,PSIKOLOGI,2,3,5
+223,Desember,Surabaya Timur,Sukolilo,Puskesmas Keputih,UMUM,347,1046,1393
+224,Desember,Surabaya Pusat,Genteng,Puskesmas Ketabang,BATRA,10,46,56
+225,Desember,Surabaya Pusat,Genteng,Puskesmas Ketabang,GIGI,52,238,290
+226,Desember,Surabaya Pusat,Genteng,Puskesmas Ketabang,GIZI,1,9,10
+227,Desember,Surabaya Pusat,Genteng,Puskesmas Ketabang,KIA,61,301,362
+228,Desember,Surabaya Pusat,Genteng,Puskesmas Ketabang,LABORATORIUM,6,23,29
+229,Desember,Surabaya Pusat,Genteng,Puskesmas Ketabang,LANSIA,13,330,343
+230,Desember,Surabaya Pusat,Genteng,Puskesmas Ketabang,PSIKOLOGI,3,9,12
+231,Desember,Surabaya Pusat,Genteng,Puskesmas Ketabang,UMUM,245,1517,1762
+232,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,BATRA,2,18,20
+233,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,FARMASI,93,537,630
+234,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,GIGI,36,318,354
+235,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,GIZI,0,5,5
+236,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,INSTALASI GAWAT DARURAT,0,1,1
+237,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,KIA,93,505,598
+238,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,LABORATORIUM,28,149,177
+239,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,LANSIA,12,403,415
+240,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,PKPR,0,1,1
+241,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,PSIKOLOGI,4,15,19
+242,Desember,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,UMUM,226,1203,1429
+243,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,BATRA,2,6,8
+244,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,GIGI,35,258,293
+245,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,GIZI,1,7,8
+246,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,INSTALASI GAWAT DARURAT,42,151,193
+247,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,KIA,122,951,1073
+248,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,LANSIA,22,540,562
+249,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,PSIKOLOGI,0,5,5
+250,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,RAWAT INAP,7,24,31
+251,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,UMUM,188,1656,1844
+252,Desember,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,USG DV,0,1,1
+253,Desember,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,BATRA,1,28,29
+254,Desember,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,GIGI,52,353,405
+255,Desember,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,GIZI,0,4,4
+256,Desember,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,KIA,97,566,663
+257,Desember,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,LANSIA,15,410,425
+258,Desember,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,PSIKOLOGI,2,11,13
+259,Desember,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,UMUM,274,1691,1965
+260,Desember,Surabaya Barat,Sambikerep,Puskesmas Lontar,BATRA,2,22,24
+261,Desember,Surabaya Barat,Sambikerep,Puskesmas Lontar,FARMASI,0,1,1
+262,Desember,Surabaya Barat,Sambikerep,Puskesmas Lontar,GIGI,53,290,343
+263,Desember,Surabaya Barat,Sambikerep,Puskesmas Lontar,GIZI,2,2,4
+264,Desember,Surabaya Barat,Sambikerep,Puskesmas Lontar,KIA,175,477,652
+265,Desember,Surabaya Barat,Sambikerep,Puskesmas Lontar,LANSIA,19,187,206
+266,Desember,Surabaya Barat,Sambikerep,Puskesmas Lontar,PSIKOLOGI,3,7,10
+267,Desember,Surabaya Barat,Sambikerep,Puskesmas Lontar,UMUM,290,1298,1588
+268,Desember,Surabaya Barat,Sambikerep,Puskesmas Made,BATRA,3,26,29
+269,Desember,Surabaya Barat,Sambikerep,Puskesmas Made,GIGI,31,241,272
+270,Desember,Surabaya Barat,Sambikerep,Puskesmas Made,GIZI,0,27,27
+271,Desember,Surabaya Barat,Sambikerep,Puskesmas Made,KIA,83,493,576
+272,Desember,Surabaya Barat,Sambikerep,Puskesmas Made,LABORATORIUM,25,140,165
+273,Desember,Surabaya Barat,Sambikerep,Puskesmas Made,LANSIA,7,217,224
+274,Desember,Surabaya Barat,Sambikerep,Puskesmas Made,PSIKOLOGI,1,8,9
+275,Desember,Surabaya Barat,Sambikerep,Puskesmas Made,UMUM,159,1172,1331
+276,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,BATRA,6,70,76
+277,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,GIGI,90,444,534
+278,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,GIZI,1,23,24
+279,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,INSTALASI GAWAT DARURAT,18,13,31
+280,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,KIA,199,727,926
+281,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,LANSIA,51,1221,1272
+282,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,PSIKOLOGI,3,12,15
+283,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,PTRM,0,24,24
+284,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,RAWAT INAP,9,20,29
+285,Desember,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,UMUM,503,2819,3322
+286,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,BATRA,4,48,52
+287,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,GIGI,138,516,654
+288,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,GIZI,2,8,10
+289,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,INSTALASI GAWAT DARURAT,5,0,5
+290,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,KIA,237,578,815
+291,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,LANSIA,28,658,686
+292,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,PSIKOLOGI,6,12,18
+293,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,RAWAT INAP,10,36,46
+294,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,SANITASI,0,1,1
+295,Desember,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,UMUM,494,2528,3022
+296,Desember,Surabaya Timur,Sukolilo,Puskesmas Menur,BATRA,0,27,27
+297,Desember,Surabaya Timur,Sukolilo,Puskesmas Menur,GIGI,91,366,457
+298,Desember,Surabaya Timur,Sukolilo,Puskesmas Menur,GIZI,12,16,28
+299,Desember,Surabaya Timur,Sukolilo,Puskesmas Menur,KIA,150,564,714
+300,Desember,Surabaya Timur,Sukolilo,Puskesmas Menur,LANSIA,12,783,795
+301,Desember,Surabaya Timur,Sukolilo,Puskesmas Menur,PSIKOLOGI,19,27,46
+302,Desember,Surabaya Timur,Sukolilo,Puskesmas Menur,UMUM,301,1531,1832
+303,Desember,Surabaya Timur,Gubeng,Puskesmas Mojo,BATRA,4,52,56
+304,Desember,Surabaya Timur,Gubeng,Puskesmas Mojo,GIGI,36,365,401
+305,Desember,Surabaya Timur,Gubeng,Puskesmas Mojo,GIZI,1,1,2
+306,Desember,Surabaya Timur,Gubeng,Puskesmas Mojo,KIA,190,630,820
+307,Desember,Surabaya Timur,Gubeng,Puskesmas Mojo,LANSIA,29,903,932
+308,Desember,Surabaya Timur,Gubeng,Puskesmas Mojo,P2M,8,137,145
+309,Desember,Surabaya Timur,Gubeng,Puskesmas Mojo,PSIKOLOGI,4,16,20
+310,Desember,Surabaya Timur,Gubeng,Puskesmas Mojo,UMUM,393,2360,2753
+311,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,ANAK,74,295,369
+312,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,BATRA,0,39,39
+313,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,GIGI,56,206,262
+314,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,GIZI,21,81,102
+315,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,INSTALASI GAWAT DARURAT,0,2,2
+316,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,KIA,68,390,458
+317,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,LANSIA,11,395,406
+318,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,PSIKOLOGI,12,51,63
+319,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,SANITASI,1,0,1
+320,Desember,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,UMUM,177,1487,1664
+321,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,BATRA,6,31,37
+322,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,GIGI,64,309,373
+323,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,GIZI,0,2,2
+324,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,HAMIL,35,223,258
+325,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,INSTALASI GAWAT DARURAT,6,1,7
+326,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,KIA,112,506,618
+327,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,LABORATORIUM,12,47,59
+328,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,LANSIA,28,505,533
+329,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,PSIKOLOGI,7,8,15
+330,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,RAWAT INAP,7,4,11
+331,Desember,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,UMUM,271,1317,1588
+332,Desember,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,BATRA,0,11,11
+333,Desember,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,FARMASI,1,1,2
+334,Desember,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,GIGI,36,385,421
+335,Desember,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,GIZI,11,40,51
+336,Desember,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,KIA,113,893,1006
+337,Desember,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,LANSIA,29,827,856
+338,Desember,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,PSIKOLOGI,14,44,58
+339,Desember,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,UMUM,250,1547,1797
+340,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,BATRA,0,13,13
+341,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,GIGI,16,213,229
+342,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,GIZI,1,7,8
+343,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,KIA,93,716,809
+344,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,LABORATORIUM,1,0,1
+345,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,LANSIA,0,3,3
+346,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,PSIKOLOGI,4,33,37
+347,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,SANITASI,0,1,1
+348,Desember,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,UMUM,214,2483,2697
+349,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,BATRA,1,101,102
+350,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,FARMASI,30,246,276
+351,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,GIGI,21,358,379
+352,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,GIZI,0,51,51
+353,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,KIA,97,706,803
+354,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,LABORATORIUM,42,238,280
+355,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,LANSIA,7,564,571
+356,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,PARU,0,118,118
+357,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,PSIKOLOGI,3,14,17
+358,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,RAWAT INAP,10,10,20
+359,Desember,Surabaya Selatan,Sawahan,Puskesmas Pakis,UMUM,163,1366,1529
+360,Desember,Surabaya Utara,Semampir,Puskesmas Pegirian,BATRA,5,57,62
+361,Desember,Surabaya Utara,Semampir,Puskesmas Pegirian,GIGI,31,257,288
+362,Desember,Surabaya Utara,Semampir,Puskesmas Pegirian,GIZI,0,4,4
+363,Desember,Surabaya Utara,Semampir,Puskesmas Pegirian,KIA,135,632,767
+364,Desember,Surabaya Utara,Semampir,Puskesmas Pegirian,LANSIA,12,376,388
+365,Desember,Surabaya Utara,Semampir,Puskesmas Pegirian,PSIKOLOGI,21,36,57
+366,Desember,Surabaya Utara,Semampir,Puskesmas Pegirian,UMUM,197,1770,1967
+367,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,BATRA,0,7,7
+368,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,FARMASI,1,0,1
+369,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,GIGI,37,244,281
+370,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,GIZI,1,15,16
+371,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,KIA,159,526,685
+372,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,LABORATORIUM,0,2,2
+373,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,LANSIA,21,555,576
+374,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,PSIKOLOGI,0,5,5
+375,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,SANITASI,1,5,6
+376,Desember,Surabaya Pusat,Genteng,Puskesmas Peneleh,UMUM,171,1366,1537
+377,Desember,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,BATRA,1,27,28
+378,Desember,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,GIGI,59,333,392
+379,Desember,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,GIZI,2,2,4
+380,Desember,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,KIA,215,973,1188
+381,Desember,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,PARU,3,73,76
+382,Desember,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,PSIKOLOGI,1,2,3
+383,Desember,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,STD,22,91,113
+384,Desember,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,UMUM,405,3569,3974
+385,Desember,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,BATRA,2,42,44
+386,Desember,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,GIGI,48,413,461
+387,Desember,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,GIZI,0,1,1
+388,Desember,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,INSTALASI GAWAT DARURAT,9,1,10
+389,Desember,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,KIA,112,501,613
+390,Desember,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,LANSIA,29,1122,1151
+391,Desember,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,PSIKOLOGI,2,13,15
+392,Desember,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,UMUM,291,1973,2264
+393,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,BATRA,1,80,81
+394,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,GIGI,47,441,488
+395,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,GIZI,1,7,8
+396,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,KIA,129,555,684
+397,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,LANSIA,14,634,648
+398,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,LOKET,12,51,63
+399,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,PSIKOLOGI,59,72,131
+400,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,STD,27,44,71
+401,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,UMUM,177,1587,1764
+402,Desember,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,VCT,10,88,98
+403,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,BATRA,2,28,30
+404,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,GIGI,65,385,450
+405,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,GIZI,3,12,15
+406,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,KIA,148,882,1030
+407,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,LANSIA,35,737,772
+408,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,PARU,6,94,100
+409,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,PSIKOLOGI,47,51,98
+410,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,SANITASI,0,2,2
+411,Desember,Surabaya Timur,Tambaksari,Puskesmas Rangkah,UMUM,323,2097,2420
+412,Desember,Surabaya Utara,Sawahan,Puskesmas Sawahan,BATRA,2,31,33
+413,Desember,Surabaya Utara,Sawahan,Puskesmas Sawahan,GIGI,46,382,428
+414,Desember,Surabaya Utara,Sawahan,Puskesmas Sawahan,GIZI,3,14,17
+415,Desember,Surabaya Utara,Sawahan,Puskesmas Sawahan,KIA,134,773,907
+416,Desember,Surabaya Utara,Sawahan,Puskesmas Sawahan,LANSIA,18,757,775
+417,Desember,Surabaya Utara,Sawahan,Puskesmas Sawahan,Poli PCR-SWAB,0,13,13
+418,Desember,Surabaya Utara,Sawahan,Puskesmas Sawahan,PSIKOLOGI,11,41,52
+419,Desember,Surabaya Utara,Sawahan,Puskesmas Sawahan,UMUM,276,2086,2362
+420,Desember,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,ANAK,74,386,460
+421,Desember,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,BATRA,2,8,10
+422,Desember,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,GIGI,47,353,400
+423,Desember,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,GIZI,1,14,15
+424,Desember,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,KIA,74,311,385
+425,Desember,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,LANSIA,18,325,343
+426,Desember,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,UMUM,163,1404,1567
+427,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,BATRA,6,37,43
+428,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,GIGI,65,518,583
+429,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,GIZI,2,4,6
+430,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,INSTALASI GAWAT DARURAT,2,0,2
+431,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,KIA,220,1280,1500
+432,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,LANSIA,22,588,610
+433,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,PSIKOLOGI,6,24,30
+434,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,UMUM,397,2634,3031
+435,Desember,Surabaya Barat,Benowo,Puskesmas Sememi,VCT,10,25,35
+436,Desember,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,BATRA,1,20,21
+437,Desember,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,FARMASI,4,3,7
+438,Desember,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,GIGI,32,186,218
+439,Desember,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,GIZI,6,19,25
+440,Desember,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,KIA,153,485,638
+441,Desember,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,LANSIA,22,495,517
+442,Desember,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,PSIKOLOGI,1,0,1
+443,Desember,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,UMUM,218,1338,1556
+444,Desember,Surabaya Utara,Semampir,Puskesmas Sidotopo,BATRA,0,10,10
+445,Desember,Surabaya Utara,Semampir,Puskesmas Sidotopo,GIGI,52,298,350
+446,Desember,Surabaya Utara,Semampir,Puskesmas Sidotopo,GIZI,100,568,668
+447,Desember,Surabaya Utara,Semampir,Puskesmas Sidotopo,KIA,53,245,298
+448,Desember,Surabaya Utara,Semampir,Puskesmas Sidotopo,LANSIA,9,469,478
+449,Desember,Surabaya Utara,Semampir,Puskesmas Sidotopo,PARU,9,129,138
+450,Desember,Surabaya Utara,Semampir,Puskesmas Sidotopo,PSIKOLOGI,0,7,7
+451,Desember,Surabaya Utara,Semampir,Puskesmas Sidotopo,UMUM,252,1755,2007
+452,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,BATRA,8,125,133
+453,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,FARMASI,3,8,11
+454,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,GIGI,101,432,533
+455,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,GIZI,49,335,384
+456,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,INSTALASI GAWAT DARURAT,1,0,1
+457,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,KIA,222,1098,1320
+458,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,LABORATORIUM,26,285,311
+459,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,LANSIA,10,599,609
+460,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,PARU,1,131,132
+461,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,PSIKOLOGI,77,128,205
+462,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,RAWAT INAP,13,43,56
+463,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,SANITASI,47,176,223
+464,Desember,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,UMUM,254,2388,2642
+465,Desember,Surabaya Pusat,Simokerto,Puskesmas Simolawang,BATRA,0,12,12
+466,Desember,Surabaya Pusat,Simokerto,Puskesmas Simolawang,GIGI,32,348,380
+467,Desember,Surabaya Pusat,Simokerto,Puskesmas Simolawang,GIZI,3,32,35
+468,Desember,Surabaya Pusat,Simokerto,Puskesmas Simolawang,KIA,131,792,923
+469,Desember,Surabaya Pusat,Simokerto,Puskesmas Simolawang,LANSIA,9,432,441
+470,Desember,Surabaya Pusat,Simokerto,Puskesmas Simolawang,PARU,3,133,136
+471,Desember,Surabaya Pusat,Simokerto,Puskesmas Simolawang,PSIKOLOGI,1,10,11
+472,Desember,Surabaya Pusat,Simokerto,Puskesmas Simolawang,UMUM,125,1738,1863
+473,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,ANAK,81,666,747
+474,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,BATRA,1,29,30
+475,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,GIGI,51,437,488
+476,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,GIZI,11,36,47
+477,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,INSTALASI GAWAT DARURAT,6,19,25
+478,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,KIA,152,730,882
+479,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,LANSIA,45,1267,1312
+480,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,LOKET,1,0,1
+481,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,PSIKOLOGI,9,47,56
+482,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,RAWAT INAP,0,3,3
+483,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,UMUM,343,2199,2542
+484,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,BATRA,4,39,43
+485,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,FARMASI,1,0,1
+486,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,GIGI,42,338,380
+487,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,GIZI,13,53,66
+488,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,INSTALASI GAWAT DARURAT,12,17,29
+489,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,KIA,78,383,461
+490,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,LANSIA,12,505,517
+491,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,PSIKOLOGI,9,41,50
+492,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,RAWAT INAP,1,7,8
+493,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,SANITASI,0,4,4
+494,Desember,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,UMUM,230,1844,2074
+495,Desember,Surabaya Utara,Simokerto,Puskesmas Tambakrejo,BATRA,0,27,27
+496,Desember,Surabaya Utara,Simokerto,Puskesmas Tambakrejo,GIGI,39,193,232
+497,Desember,Surabaya Utara,Simokerto,Puskesmas Tambakrejo,GIZI,1,3,4
+498,Desember,Surabaya Utara,Simokerto,Puskesmas Tambakrejo,INSTALASI GAWAT DARURAT,0,1,1
+499,Desember,Surabaya Utara,Simokerto,Puskesmas Tambakrejo,KIA,94,631,725
+500,Desember,Surabaya Utara,Simokerto,Puskesmas Tambakrejo,PKPR,0,2,2
+501,Desember,Surabaya Utara,Simokerto,Puskesmas Tambakrejo,PSIKOLOGI,0,10,10
+502,Desember,Surabaya Utara,Simokerto,Puskesmas Tambakrejo,UMUM,156,2298,2454
+503,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,BATRA,3,29,32
+504,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,FARMASI,4,11,15
+505,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,GIGI,58,318,376
+506,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,GIZI,1,4,5
+507,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,KIA,120,507,627
+508,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,LABORATORIUM,4,6,10
+509,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,LANSIA,9,190,199
+510,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,PSIKOLOGI,12,31,43
+511,Desember,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,UMUM,123,949,1072
+512,Desember,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,ANAK,83,392,475
+513,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,BATRA,3,21,24
+514,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,GIGI,76,531,607
+515,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,GIZI,1,15,16
+516,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,INSTALASI GAWAT DARURAT,23,24,47
+517,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,KIA,155,760,915
+518,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,LABORATORIUM,1,2,3
+519,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,LANSIA,17,462,479
+520,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,LOKET,0,1,1
+521,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,PSIKOLOGI,16,114,130
+522,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,RAWAT INAP,12,41,53
+523,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,RAWAT JALAN,2,14,16
+524,Desember,Surabaya Pusat,Kenjeran,Puskesmas Tanah Kali Kedinding,UMUM,395,2594,2989
+525,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,GIGI,52,308,360
+526,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,GIZI,0,2,2
+527,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,INSTALASI GAWAT DARURAT,8,6,14
+528,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,KIA,116,400,516
+529,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,LANSIA,11,230,241
+530,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,LOKET,2,10,12
+531,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,P2M,1,0,1
+532,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,RAWAT INAP,0,5,5
+533,Desember,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,UMUM,247,992,1239
+534,Desember,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,BATRA,1,68,69
+535,Desember,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,GIGI,55,325,380
+536,Desember,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,GIZI,12,60,72
+537,Desember,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,INSTALASI GAWAT DARURAT,1,0,1
+538,Desember,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,KIA,133,501,634
+539,Desember,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,PSIKOLOGI,0,11,11
+540,Desember,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,UMUM,347,2553,2900
+541,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,BATRA,0,33,33
+542,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,GIGI,67,336,403
+543,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,GIZI,18,48,66
+544,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,KIA,236,1062,1298
+545,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,LABORATORIUM,1,1,2
+546,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,LANSIA,34,817,851
+547,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,PSIKOLOGI,15,38,53
+548,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,RAWAT INAP,4,0,4
+549,Desember,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,UMUM,402,1982,2384
+550,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,ANAK,73,451,524
+551,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,BATRA,4,148,152
+552,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,FARMASI,53,420,473
+553,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,GIGI,85,562,647
+554,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,GIZI,4,21,25
+555,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,KIA,87,435,522
+556,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,LABORATORIUM,14,107,121
+557,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,LANSIA,16,575,591
+558,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,PSIKOLOGI,24,62,86
+559,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,SANITASI,1,11,12
+560,Desember,Surabaya Selatan,Wiyung,Puskesmas Wiyung,UMUM,322,2159,2481
+561,Desember,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,BATRA,1,28,29
+562,Desember,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,GIGI,39,240,279
+563,Desember,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,GIZI,0,5,5
+564,Desember,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,KIA,109,618,727
+565,Desember,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,LANSIA,4,655,659
+566,Desember,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,PSIKOLOGI,2,10,12
+567,Desember,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,UMUM,283,1268,1551
+568,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,BATRA,1,34,35
+569,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,GIGI,79,569,648
+570,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,GIZI,1,9,10
+571,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,INSTALASI GAWAT DARURAT,0,1,1
+572,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,KIA,131,691,822
+573,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,LABORATORIUM,18,12,30
+574,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,LANSIA,23,602,625
+575,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,PSIKOLOGI,4,7,11
+576,Desember,Surabaya Utara,Semampir,Puskesmas Wonokusumo,UMUM,307,2104,2411

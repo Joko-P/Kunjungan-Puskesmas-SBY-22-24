@@ -1,0 +1,1135 @@
+﻿_id,Periode,Wilayah,Kecamatan,Nama Puskesmas,Poli,Baru,Lama,Total Kunjungan
+1,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,BATRA,0,2,2
+2,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,GIGI,40,158,198
+3,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,GIZI,0,1,1
+4,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,INSTALASI GAWAT DARURAT,,,0
+5,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,KIA,151,444,595
+6,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,LABORATORIUM,,,0
+7,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,LANSIA,,,0
+8,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,MATA,,,0
+9,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,PKPR,,,0
+10,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Poli PCR-SWAB,,,0
+11,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,PSIKOLOGI,1,7,8
+12,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,PTRM,,,0
+13,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,RAWAT INAP,,,0
+14,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,SANITASI,,,0
+15,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,STD,,,0
+16,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,TBC/PARU,,,0
+17,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,UMUM,200,1626,1826
+18,Januari,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,VCT,,,0
+19,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,BATRA,1,9,10
+20,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,GIGI,21,136,157
+21,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,GIZI,0,3,3
+22,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,INSTALASI GAWAT DARURAT,,,0
+23,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,KIA,42,183,225
+24,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,LABORATORIUM,,,0
+25,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,LANSIA,12,201,213
+26,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,MATA,,,0
+27,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,PKPR,,,0
+28,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Poli PCR-SWAB,,,0
+29,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,PSIKOLOGI,1,1,2
+30,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,PTRM,,,0
+31,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,RAWAT INAP,,,0
+32,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,SANITASI,,,0
+33,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,STD,,,0
+34,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,TBC/PARU,,,0
+35,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,UMUM,107,558,665
+36,Januari,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,VCT,,,0
+37,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,BATRA,0,33,33
+38,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,GIGI,35,231,266
+39,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,GIZI,1,0,1
+40,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,INSTALASI GAWAT DARURAT,7,4,11
+41,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,KIA,100,416,516
+42,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,LABORATORIUM,,,0
+43,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,LANSIA,16,547,563
+44,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,MATA,,,0
+45,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,PKPR,,,0
+46,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,Poli PCR-SWAB,,,0
+47,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,PSIKOLOGI,3,3,6
+48,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,PTRM,,,0
+49,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,RAWAT INAP,1,5,6
+50,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,SANITASI,,,0
+51,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,STD,,,0
+52,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,TBC/PARU,5,46,51
+53,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,UMUM,201,955,1156
+54,Januari,Surabaya Barat,Tandes,Puskesmas Balongsari,VCT,,,0
+55,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,BATRA,1,15,16
+56,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,GIGI,17,350,367
+57,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,GIZI,,,0
+58,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,INSTALASI GAWAT DARURAT,,,0
+59,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,KIA,54,332,386
+60,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,LABORATORIUM,,,0
+61,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,LANSIA,4,170,174
+62,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,MATA,,,0
+63,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,PKPR,,,0
+64,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Poli PCR-SWAB,,,0
+65,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,PSIKOLOGI,3,1,4
+66,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,PTRM,,,0
+67,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,RAWAT INAP,,,0
+68,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,SANITASI,,,0
+69,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,STD,,,0
+70,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,TBC/PARU,,,0
+71,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,UMUM,114,984,1098
+72,Januari,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,VCT,,,0
+73,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,BATRA,0,5,5
+74,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,GIGI,36,175,211
+75,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,GIZI,,,0
+76,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,INSTALASI GAWAT DARURAT,12,13,25
+77,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,KIA,196,872,1068
+78,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,LABORATORIUM,,,0
+79,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,LANSIA,27,645,672
+80,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,MATA,,,0
+81,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PKPR,62,34,96
+82,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Poli PCR-SWAB,,,0
+83,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PSIKOLOGI,,,0
+84,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PTRM,,,0
+85,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,RAWAT INAP,3,1,4
+86,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,SANITASI,,,0
+87,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,STD,,,0
+88,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,TBC/PARU,13,247,260
+89,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,UMUM,203,1218,1421
+90,Januari,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,VCT,,,0
+91,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,BATRA,1,3,4
+92,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,GIGI,62,417,479
+93,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,GIZI,17,43,60
+94,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,INSTALASI GAWAT DARURAT,,,0
+95,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,KIA,124,735,859
+96,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,LABORATORIUM,,,0
+97,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,LANSIA,16,534,550
+98,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,MATA,,,0
+99,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,PKPR,,,0
+100,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,Poli PCR-SWAB,,,0
+101,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,PSIKOLOGI,1,6,7
+102,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,PTRM,,,0
+103,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,RAWAT INAP,,,0
+104,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,SANITASI,,,0
+105,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,STD,,,0
+106,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,TBC/PARU,,,0
+107,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,UMUM,190,1639,1829
+108,Januari,Surabaya Barat,Pakal,Puskesmas Benowo,VCT,,,0
+109,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,BATRA,3,4,7
+110,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,GIGI,37,265,302
+111,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,GIZI,9,35,44
+112,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,INSTALASI GAWAT DARURAT,,,0
+113,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,KIA,157,429,586
+114,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,LABORATORIUM,,,0
+115,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,LANSIA,11,255,266
+116,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,MATA,,,0
+117,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,PKPR,,,0
+118,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Poli PCR-SWAB,,,0
+119,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,PSIKOLOGI,3,2,5
+120,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,PTRM,,,0
+121,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,RAWAT INAP,,,0
+122,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,SANITASI,,,0
+123,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,STD,,,0
+124,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,TBC/PARU,,,0
+125,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,UMUM,200,1952,2152
+126,Januari,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,VCT,,,0
+127,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,BATRA,,,0
+128,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,GIGI,19,89,108
+129,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,GIZI,,,0
+130,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,INSTALASI GAWAT DARURAT,,,0
+131,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,KIA,137,409,546
+132,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,LABORATORIUM,,,0
+133,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,LANSIA,10,242,252
+134,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,MATA,,,0
+135,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,PKPR,,,0
+136,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Poli PCR-SWAB,,,0
+137,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,PSIKOLOGI,3,1,4
+138,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,PTRM,,,0
+139,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,RAWAT INAP,,,0
+140,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,SANITASI,,,0
+141,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,STD,,,0
+142,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,TBC/PARU,,,0
+143,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,UMUM,258,1255,1513
+144,Januari,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,VCT,,,0
+145,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,BATRA,0,7,7
+146,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,GIGI,48,211,259
+147,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,GIZI,0,1,1
+148,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,INSTALASI GAWAT DARURAT,19,12,31
+149,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,KIA,231,633,864
+150,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,LABORATORIUM,17,21,38
+151,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,LANSIA,43,630,673
+152,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,MATA,,,0
+153,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,PKPR,,,0
+154,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Poli PCR-SWAB,,,0
+155,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,PSIKOLOGI,5,8,13
+156,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,PTRM,,,0
+157,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,RAWAT INAP,4,2,6
+158,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,SANITASI,,,0
+159,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,STD,,,0
+160,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,TBC/PARU,0,13,13
+161,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,UMUM,388,1362,1750
+162,Januari,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,VCT,,,0
+163,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,BATRA,1,15,16
+164,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,GIGI,10,202,212
+165,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,GIZI,1,9,10
+166,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,INSTALASI GAWAT DARURAT,27,20,47
+167,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,KIA,96,625,721
+168,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,LABORATORIUM,,,0
+169,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,LANSIA,12,396,408
+170,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,MATA,,,0
+171,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,PKPR,,,0
+172,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,Poli PCR-SWAB,,,0
+173,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,PSIKOLOGI,8,22,30
+174,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,PTRM,,,0
+175,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,RAWAT INAP,22,11,33
+176,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,SANITASI,,,0
+177,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,STD,,,0
+178,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,TBC/PARU,,,0
+179,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,UMUM,159,1458,1617
+180,Januari,Surabaya Utara,Krembangan,Puskesmas Dupak,VCT,,,0
+181,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,BATRA,0,3,3
+182,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,GIGI,43,158,201
+183,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,GIZI,,,0
+184,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,INSTALASI GAWAT DARURAT,,,0
+185,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,KIA,166,679,845
+186,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,LABORATORIUM,,,0
+187,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,LANSIA,,,0
+188,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,MATA,,,0
+189,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,PKPR,,,0
+190,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,Poli PCR-SWAB,,,0
+191,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,PSIKOLOGI,1,6,7
+192,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,PTRM,,,0
+193,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,RAWAT INAP,,,0
+194,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,SANITASI,,,0
+195,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,STD,,,0
+196,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,TBC/PARU,,,0
+197,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,UMUM,236,2362,2598
+198,Januari,Surabaya Timur,Tambaksari,Puskesmas Gading,VCT,,,0
+199,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,BATRA,0,6,6
+200,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,GIGI,70,354,424
+201,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,GIZI,7,35,42
+202,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,INSTALASI GAWAT DARURAT,,,0
+203,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,KIA,101,475,576
+204,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,LABORATORIUM,,,0
+205,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,LANSIA,36,796,832
+206,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,MATA,,,0
+207,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,PKPR,0,1,1
+208,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,Poli PCR-SWAB,,,0
+209,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,PSIKOLOGI,2,19,21
+210,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,PTRM,,,0
+211,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,RAWAT INAP,,,0
+212,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,SANITASI,,,0
+213,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,STD,,,0
+214,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,TBC/PARU,,,0
+215,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,UMUM,311,1548,1859
+216,Januari,Surabaya Selatan,Gayungan,Puskesmas Gayungan,VCT,,,0
+217,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,BATRA,0,8,8
+218,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,GIGI,8,175,183
+219,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,GIZI,0,2,2
+220,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,INSTALASI GAWAT DARURAT,,,0
+221,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,KIA,69,668,737
+222,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,LABORATORIUM,,,0
+223,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,LANSIA,4,410,414
+224,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,MATA,,,0
+225,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,PKPR,,,0
+226,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,Poli PCR-SWAB,,,0
+227,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,PSIKOLOGI,0,13,13
+228,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,PTRM,,,0
+229,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,RAWAT INAP,,,0
+230,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,SANITASI,,,0
+231,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,STD,,,0
+232,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,TBC/PARU,0,84,84
+233,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,UMUM,56,1513,1569
+234,Januari,Surabaya Pusat,Bubutan,Puskesmas Gundih,VCT,,,0
+235,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,BATRA,0,4,4
+236,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,GIGI,35,132,167
+237,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,GIZI,0,2,2
+238,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,INSTALASI GAWAT DARURAT,,,0
+239,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,KIA,118,429,547
+240,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,LABORATORIUM,,,0
+241,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,LANSIA,17,376,393
+242,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,MATA,,,0
+243,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,PKPR,,,0
+244,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Poli PCR-SWAB,,,0
+245,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,PSIKOLOGI,1,9,10
+246,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,PTRM,,,0
+247,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,RAWAT INAP,1,0,1
+248,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,SANITASI,,,0
+249,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,STD,,,0
+250,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,TBC/PARU,,,0
+251,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,UMUM,217,970,1187
+252,Januari,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,VCT,,,0
+253,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,BATRA,7,70,77
+254,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,GIGI,71,291,362
+255,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,GIZI,6,26,32
+256,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,INSTALASI GAWAT DARURAT,29,18,47
+257,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,KIA,192,758,950
+258,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,LABORATORIUM,,,0
+259,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,LANSIA,33,656,689
+260,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,MATA,,,0
+261,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,PKPR,,,0
+262,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,Poli PCR-SWAB,,,0
+263,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,PSIKOLOGI,1,34,35
+264,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,PTRM,0,5,5
+265,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,RAWAT INAP,17,21,38
+266,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,SANITASI,0,1,1
+267,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,STD,,,0
+268,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,TBC/PARU,,,0
+269,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,UMUM,391,2254,2645
+270,Januari,Surabaya Selatan,Wonokromo,Puskesmas Jagir,VCT,,,0
+271,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,BATRA,0,8,8
+272,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,GIGI,18,94,112
+273,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,GIZI,1,16,17
+274,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,INSTALASI GAWAT DARURAT,,,0
+275,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,KIA,63,263,326
+276,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,LABORATORIUM,,,0
+277,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,LANSIA,14,396,410
+278,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,MATA,,,0
+279,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,PKPR,,,0
+280,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Poli PCR-SWAB,1,0,1
+281,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,PSIKOLOGI,4,10,14
+282,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,PTRM,,,0
+283,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,RAWAT INAP,,,0
+284,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,SANITASI,,,0
+285,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,STD,,,0
+286,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,TBC/PARU,,,0
+287,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,UMUM,187,1055,1242
+288,Januari,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,VCT,,,0
+289,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,BATRA,0,9,9
+290,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,GIGI,47,134,181
+291,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,GIZI,,,0
+292,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,INSTALASI GAWAT DARURAT,,,0
+293,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,KIA,24,132,156
+294,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,LABORATORIUM,,,0
+295,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,LANSIA,18,330,348
+296,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,MATA,,,0
+297,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,PKPR,,,0
+298,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Poli PCR-SWAB,,,0
+299,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,PSIKOLOGI,0,1,1
+300,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,PTRM,,,0
+301,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,RAWAT INAP,,,0
+302,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,SANITASI,,,0
+303,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,STD,,,0
+304,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,TBC/PARU,21,268,289
+305,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,UMUM,181,927,1108
+306,Januari,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,VCT,,,0
+307,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,BATRA,1,5,6
+308,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,GIGI,30,120,150
+309,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,GIZI,,,0
+310,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,INSTALASI GAWAT DARURAT,,,0
+311,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,KIA,81,444,525
+312,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,LABORATORIUM,,,0
+313,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,LANSIA,19,299,318
+314,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,MATA,,,0
+315,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,PKPR,,,0
+316,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Poli PCR-SWAB,,,0
+317,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,PSIKOLOGI,,,0
+318,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,PTRM,,,0
+319,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,RAWAT INAP,,,0
+320,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,SANITASI,,,0
+321,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,STD,,,0
+322,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,TBC/PARU,,,0
+323,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,UMUM,171,829,1000
+324,Januari,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,VCT,,,0
+325,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,BATRA,,,0
+326,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,GIGI,35,286,321
+327,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,GIZI,0,22,22
+328,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,INSTALASI GAWAT DARURAT,,,0
+329,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,KIA,108,474,582
+330,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,LABORATORIUM,,,0
+331,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,LANSIA,6,190,196
+332,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,MATA,,,0
+333,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,PKPR,,,0
+334,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Poli PCR-SWAB,,,0
+335,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,PSIKOLOGI,3,24,27
+336,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,PTRM,,,0
+337,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,RAWAT INAP,,,0
+338,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,SANITASI,,,0
+339,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,STD,,,0
+340,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,TBC/PARU,,,0
+341,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,UMUM,259,1828,2087
+342,Januari,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,VCT,,,0
+343,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,BATRA,0,5,5
+344,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,GIGI,54,247,301
+345,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,GIZI,0,1,1
+346,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,INSTALASI GAWAT DARURAT,32,38,70
+347,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,KIA,179,712,891
+348,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,LABORATORIUM,,,0
+349,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,LANSIA,16,542,558
+350,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,MATA,,,0
+351,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,PKPR,,,0
+352,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Poli PCR-SWAB,,,0
+353,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,PSIKOLOGI,1,7,8
+354,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,PTRM,,,0
+355,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,RAWAT INAP,4,10,14
+356,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,SANITASI,,,0
+357,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,STD,,,0
+358,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,TBC/PARU,,,0
+359,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,UMUM,405,2257,2662
+360,Januari,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,VCT,,,0
+361,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,BATRA,5,48,53
+362,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,GIGI,21,265,286
+363,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,GIZI,,,0
+364,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,INSTALASI GAWAT DARURAT,,,0
+365,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,KIA,94,411,505
+366,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,LABORATORIUM,,,0
+367,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,LANSIA,7,63,70
+368,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,MATA,,,0
+369,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,PKPR,,,0
+370,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Poli PCR-SWAB,,,0
+371,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,PSIKOLOGI,5,15,20
+372,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,PTRM,,,0
+373,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,RAWAT INAP,,,0
+374,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,SANITASI,,,0
+375,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,STD,,,0
+376,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,TBC/PARU,0,58,58
+377,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,UMUM,198,1966,2164
+378,Januari,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,VCT,36,154,190
+379,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,BATRA,0,25,25
+380,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,GIGI,41,227,268
+381,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,GIZI,0,1,1
+382,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,INSTALASI GAWAT DARURAT,7,15,22
+383,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,KIA,255,722,977
+384,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,LABORATORIUM,,,0
+385,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,LANSIA,21,898,919
+386,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,MATA,,,0
+387,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,PKPR,,,0
+388,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Poli PCR-SWAB,,,0
+389,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,PSIKOLOGI,2,13,15
+390,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,PTRM,,,0
+391,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,RAWAT INAP,2,2,4
+392,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,SANITASI,,,0
+393,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,STD,,,0
+394,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,TBC/PARU,7,61,68
+395,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,UMUM,291,1537,1828
+396,Januari,Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,VCT,10,77,87
+397,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,BATRA,,,0
+398,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,GIGI,29,129,158
+399,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,GIZI,,,0
+400,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,INSTALASI GAWAT DARURAT,,,0
+401,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,KIA,82,332,414
+402,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,LABORATORIUM,,,0
+403,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,LANSIA,,,0
+404,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,MATA,,,0
+405,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,PKPR,,,0
+406,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,Poli PCR-SWAB,,,0
+407,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,PSIKOLOGI,,,0
+408,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,PTRM,,,0
+409,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,RAWAT INAP,,,0
+410,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,SANITASI,,,0
+411,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,STD,,,0
+412,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,TBC/PARU,,,0
+413,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,UMUM,174,1309,1483
+414,Januari,Surabaya Utara,Bulak,Puskesmas Kenjeran,VCT,,,0
+415,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,BATRA,3,5,8
+416,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,GIGI,28,112,140
+417,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,GIZI,1,1,2
+418,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,INSTALASI GAWAT DARURAT,,,0
+419,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,KIA,72,283,355
+420,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,LABORATORIUM,,,0
+421,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,LANSIA,5,157,162
+422,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,MATA,,,0
+423,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,PKPR,,,0
+424,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,Poli PCR-SWAB,,,0
+425,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,PSIKOLOGI,,,0
+426,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,PTRM,,,0
+427,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,RAWAT INAP,,,0
+428,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,SANITASI,,,0
+429,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,STD,,,0
+430,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,TBC/PARU,,,0
+431,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,UMUM,189,756,945
+432,Januari,Surabaya Timur,Sukolilo,Puskesmas Keputih,VCT,,,0
+433,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,BATRA,1,6,7
+434,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,GIGI,41,158,199
+435,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,GIZI,,,0
+436,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,INSTALASI GAWAT DARURAT,,,0
+437,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,KIA,62,225,287
+438,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,LABORATORIUM,,,0
+439,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,LANSIA,9,256,265
+440,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,MATA,,,0
+441,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,PKPR,,,0
+442,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,Poli PCR-SWAB,,,0
+443,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,PSIKOLOGI,,,0
+444,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,PTRM,,,0
+445,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,RAWAT INAP,,,0
+446,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,SANITASI,,,0
+447,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,STD,,,0
+448,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,TBC/PARU,,,0
+449,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,UMUM,185,1170,1355
+450,Januari,Surabaya Pusat,Genteng,Puskesmas Ketabang,VCT,,,0
+451,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,BATRA,0,4,4
+452,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,GIGI,27,145,172
+453,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,GIZI,0,4,4
+454,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,INSTALASI GAWAT DARURAT,,,0
+455,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,KIA,76,422,498
+456,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,LABORATORIUM,,,0
+457,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,LANSIA,16,295,311
+458,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,MATA,,,0
+459,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,PKPR,,,0
+460,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Poli PCR-SWAB,,,0
+461,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,PSIKOLOGI,2,6,8
+462,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,PTRM,,,0
+463,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,RAWAT INAP,,,0
+464,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,SANITASI,1,0,1
+465,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,STD,,,0
+466,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,TBC/PARU,,,0
+467,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,UMUM,166,1113,1279
+468,Januari,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,VCT,,,0
+469,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,BATRA,0,1,1
+470,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,GIGI,29,169,198
+471,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,GIZI,2,1,3
+472,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,INSTALASI GAWAT DARURAT,40,89,129
+473,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,KIA,127,657,784
+474,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,LABORATORIUM,,,0
+475,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,LANSIA,,,0
+476,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,MATA,,,0
+477,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,PKPR,,,0
+478,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Poli PCR-SWAB,,,0
+479,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,PSIKOLOGI,0,2,2
+480,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,PTRM,,,0
+481,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,RAWAT INAP,,,0
+482,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,SANITASI,11,29,40
+483,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,STD,,,0
+484,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,TBC/PARU,,,0
+485,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,UMUM,197,1780,1977
+486,Januari,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,VCT,,,0
+487,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,BATRA,5,8,13
+488,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,GIGI,24,131,155
+489,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,GIZI,0,6,6
+490,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,INSTALASI GAWAT DARURAT,,,0
+491,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,KIA,82,304,386
+492,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,LABORATORIUM,,,0
+493,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,LANSIA,13,308,321
+494,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,MATA,,,0
+495,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,PKPR,,,0
+496,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Poli PCR-SWAB,,,0
+497,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,PSIKOLOGI,0,1,1
+498,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,PTRM,,,0
+499,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,RAWAT INAP,,,0
+500,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,SANITASI,2,10,12
+501,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,STD,,,0
+502,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,TBC/PARU,,,0
+503,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,UMUM,177,1088,1265
+504,Januari,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,VCT,,,0
+505,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,BATRA,1,12,13
+506,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,GIGI,23,145,168
+507,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,GIZI,0,1,1
+508,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,INSTALASI GAWAT DARURAT,,,0
+509,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,KIA,135,329,464
+510,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,LABORATORIUM,,,0
+511,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,LANSIA,,,0
+512,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,MATA,,,0
+513,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,PKPR,,,0
+514,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,Poli PCR-SWAB,,,0
+515,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,PSIKOLOGI,2,4,6
+516,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,PTRM,,,0
+517,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,RAWAT INAP,,,0
+518,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,SANITASI,,,0
+519,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,STD,,,0
+520,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,TBC/PARU,,,0
+521,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,UMUM,234,1100,1334
+522,Januari,Surabaya Barat,Sambikerep,Puskesmas Lontar,VCT,,,0
+523,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,BATRA,,,0
+524,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,GIGI,33,153,186
+525,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,GIZI,1,1,2
+526,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,INSTALASI GAWAT DARURAT,,,0
+527,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,KIA,65,331,396
+528,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,LABORATORIUM,,,0
+529,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,LANSIA,6,206,212
+530,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,MATA,,,0
+531,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,PKPR,,,0
+532,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,Poli PCR-SWAB,,,0
+533,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,PSIKOLOGI,1,1,2
+534,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,PTRM,,,0
+535,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,RAWAT INAP,,,0
+536,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,SANITASI,,,0
+537,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,STD,,,0
+538,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,TBC/PARU,,,0
+539,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,UMUM,114,1018,1132
+540,Januari,Surabaya Barat,Sambikerep,Puskesmas Made,VCT,,,0
+541,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,BATRA,3,22,25
+542,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,GIGI,49,254,303
+543,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,GIZI,1,1,2
+544,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,INSTALASI GAWAT DARURAT,,,0
+545,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,KIA,181,585,766
+546,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,LABORATORIUM,,,0
+547,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,LANSIA,27,1071,1098
+548,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,MATA,,,0
+549,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,PKPR,,,0
+550,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Poli PCR-SWAB,,,0
+551,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,PSIKOLOGI,9,10,19
+552,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,PTRM,0,125,125
+553,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,RAWAT INAP,,,0
+554,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,SANITASI,,,0
+555,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,STD,,,0
+556,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,TBC/PARU,,,0
+557,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,UMUM,412,2233,2645
+558,Januari,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,VCT,,,0
+559,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,BATRA,3,26,29
+560,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,GIGI,46,170,216
+561,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,GIZI,2,2,4
+562,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,INSTALASI GAWAT DARURAT,3,2,5
+563,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,KIA,170,430,600
+564,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,LABORATORIUM,,,0
+565,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,LANSIA,15,465,480
+566,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,MATA,,,0
+567,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,PKPR,,,0
+568,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Poli PCR-SWAB,,,0
+569,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,PSIKOLOGI,1,6,7
+570,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,PTRM,,,0
+571,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,RAWAT INAP,1,1,2
+572,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,SANITASI,,,0
+573,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,STD,,,0
+574,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,TBC/PARU,,,0
+575,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,UMUM,233,1224,1457
+576,Januari,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,VCT,,,0
+577,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,BATRA,0,5,5
+578,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,GIGI,28,212,240
+579,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,GIZI,0,3,3
+580,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,INSTALASI GAWAT DARURAT,,,0
+581,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,KIA,127,400,527
+582,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,LABORATORIUM,,,0
+583,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,LANSIA,20,618,638
+584,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,MATA,,,0
+585,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,PKPR,0,3,3
+586,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,Poli PCR-SWAB,,,0
+587,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,PSIKOLOGI,,,0
+588,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,PTRM,,,0
+589,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,RAWAT INAP,,,0
+590,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,SANITASI,,,0
+591,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,STD,,,0
+592,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,TBC/PARU,,,0
+593,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,UMUM,228,1264,1492
+594,Januari,Surabaya Timur,Sukolilo,Puskesmas Menur,VCT,,,0
+595,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,BATRA,0,3,3
+596,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,GIGI,26,203,229
+597,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,GIZI,,,0
+598,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,INSTALASI GAWAT DARURAT,,,0
+599,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,KIA,141,379,520
+600,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,LABORATORIUM,,,0
+601,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,LANSIA,21,755,776
+602,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,MATA,,,0
+603,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,PKPR,,,0
+604,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,Poli PCR-SWAB,,,0
+605,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,PSIKOLOGI,1,7,8
+606,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,PTRM,,,0
+607,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,RAWAT INAP,,,0
+608,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,SANITASI,,,0
+609,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,STD,,,0
+610,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,TBC/PARU,,,0
+611,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,UMUM,249,1724,1973
+612,Januari,Surabaya Timur,Gubeng,Puskesmas Mojo,VCT,,,0
+613,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,BATRA,0,5,5
+614,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,GIGI,17,104,121
+615,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,GIZI,0,9,9
+616,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,INSTALASI GAWAT DARURAT,,,0
+617,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,KIA,113,383,496
+618,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,LABORATORIUM,,,0
+619,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,LANSIA,15,337,352
+620,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,MATA,,,0
+621,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,PKPR,,,0
+622,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Poli PCR-SWAB,,,0
+623,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,PSIKOLOGI,5,6,11
+624,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,PTRM,,,0
+625,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,RAWAT INAP,,,0
+626,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,SANITASI,,,0
+627,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,STD,,,0
+628,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,TBC/PARU,,,0
+629,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,UMUM,157,1040,1197
+630,Januari,Surabaya Utara,Krembangan,Puskesmas Morokrembangan,VCT,,,0
+631,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,BATRA,1,9,10
+632,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,GIGI,37,171,208
+633,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,GIZI,0,3,3
+634,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,INSTALASI GAWAT DARURAT,,,0
+635,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,KIA,162,679,841
+636,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,LABORATORIUM,,,0
+637,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,LANSIA,20,501,521
+638,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,MATA,,,0
+639,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,PKPR,,,0
+640,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Poli PCR-SWAB,,,0
+641,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,PSIKOLOGI,4,8,12
+642,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,PTRM,,,0
+643,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,RAWAT INAP,,,0
+644,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,SANITASI,,,0
+645,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,STD,,,0
+646,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,TBC/PARU,,,0
+647,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,UMUM,218,1141,1359
+648,Januari,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,VCT,,,0
+649,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,BATRA,1,0,1
+650,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,GIGI,25,319,344
+651,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,GIZI,19,38,57
+652,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,INSTALASI GAWAT DARURAT,,,0
+653,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,KIA,131,785,916
+654,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,LABORATORIUM,,,0
+655,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,LANSIA,26,666,692
+656,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,MATA,,,0
+657,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,PKPR,,,0
+658,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Poli PCR-SWAB,,,0
+659,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,PSIKOLOGI,18,27,45
+660,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,PTRM,,,0
+661,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,RAWAT INAP,,,0
+662,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,SANITASI,,,0
+663,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,STD,,,0
+664,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,TBC/PARU,,,0
+665,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,UMUM,248,1131,1379
+666,Januari,Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,VCT,,,0
+667,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,BATRA,,,0
+668,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,GIGI,8,162,170
+669,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,GIZI,,,0
+670,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,INSTALASI GAWAT DARURAT,,,0
+671,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,KIA,66,524,590
+672,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,LABORATORIUM,,,0
+673,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,LANSIA,,,0
+674,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,MATA,,,0
+675,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,PKPR,,,0
+676,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Poli PCR-SWAB,,,0
+677,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,PSIKOLOGI,0,1,1
+678,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,PTRM,,,0
+679,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,RAWAT INAP,,,0
+680,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,SANITASI,,,0
+681,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,STD,,,0
+682,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,TBC/PARU,,,0
+683,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,UMUM,174,1899,2073
+684,Januari,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,VCT,,,0
+685,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,BATRA,2,14,16
+686,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,GIGI,21,215,236
+687,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,GIZI,0,3,3
+688,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,INSTALASI GAWAT DARURAT,0,1,1
+689,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,KIA,78,449,527
+690,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,LABORATORIUM,,,0
+691,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,LANSIA,60,908,968
+692,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,MATA,,,0
+693,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,PKPR,,,0
+694,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,Poli PCR-SWAB,,,0
+695,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,PSIKOLOGI,3,18,21
+696,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,PTRM,,,0
+697,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,RAWAT INAP,2,1,3
+698,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,SANITASI,,,0
+699,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,STD,,,0
+700,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,TBC/PARU,0,19,19
+701,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,UMUM,166,1150,1316
+702,Januari,Surabaya Selatan,Sawahan,Puskesmas Pakis,VCT,,,0
+703,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,BATRA,0,12,12
+704,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,GIGI,17,133,150
+705,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,GIZI,1,9,10
+706,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,INSTALASI GAWAT DARURAT,,,0
+707,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,KIA,84,451,535
+708,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,LABORATORIUM,,,0
+709,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,LANSIA,4,279,283
+710,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,MATA,,,0
+711,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,PKPR,,,0
+712,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,Poli PCR-SWAB,,,0
+713,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,PSIKOLOGI,2,3,5
+714,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,PTRM,,,0
+715,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,RAWAT INAP,,,0
+716,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,SANITASI,0,4,4
+717,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,STD,,,0
+718,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,TBC/PARU,,,0
+719,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,UMUM,175,1547,1722
+720,Januari,Surabaya Utara,Semampir,Puskesmas Pegirian,VCT,,,0
+721,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,BATRA,,,0
+722,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,GIGI,26,168,194
+723,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,GIZI,1,1,2
+724,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,INSTALASI GAWAT DARURAT,,,0
+725,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,KIA,100,366,466
+726,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,LABORATORIUM,,,0
+727,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,LANSIA,,,0
+728,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,MATA,,,0
+729,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,PKPR,,,0
+730,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,Poli PCR-SWAB,,,0
+731,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,PSIKOLOGI,0,1,1
+732,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,PTRM,,,0
+733,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,RAWAT INAP,,,0
+734,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,SANITASI,,,0
+735,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,STD,,,0
+736,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,TBC/PARU,,,0
+737,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,UMUM,144,1425,1569
+738,Januari,Surabaya Pusat,Genteng,Puskesmas Peneleh,VCT,,,0
+739,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,BATRA,,,0
+740,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,GIGI,32,183,215
+741,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,GIZI,,,0
+742,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,INSTALASI GAWAT DARURAT,,,0
+743,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,KIA,154,548,702
+744,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,LABORATORIUM,,,0
+745,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,LANSIA,,,0
+746,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,MATA,,,0
+747,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,PKPR,,,0
+748,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Poli PCR-SWAB,3,1,4
+749,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,PSIKOLOGI,,,0
+750,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,PTRM,,,0
+751,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,RAWAT INAP,,,0
+752,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,SANITASI,,,0
+753,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,STD,,,0
+754,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,TBC/PARU,,,0
+755,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,UMUM,344,2742,3086
+756,Januari,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,VCT,,,0
+757,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,BATRA,0,8,8
+758,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,GIGI,52,223,275
+759,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,GIZI,,,0
+760,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,INSTALASI GAWAT DARURAT,,,0
+761,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,KIA,124,422,546
+762,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,LABORATORIUM,,,0
+763,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,LANSIA,18,897,915
+764,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,MATA,,,0
+765,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,PKPR,,,0
+766,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Poli PCR-SWAB,,,0
+767,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,PSIKOLOGI,3,0,3
+768,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,PTRM,,,0
+769,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,RAWAT INAP,,,0
+770,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,SANITASI,,,0
+771,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,STD,,,0
+772,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,TBC/PARU,,,0
+773,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,UMUM,242,1350,1592
+774,Januari,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,VCT,,,0
+775,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,BATRA,0,3,3
+776,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,GIGI,26,320,346
+777,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,GIZI,,,0
+778,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,INSTALASI GAWAT DARURAT,,,0
+779,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,KIA,82,332,414
+780,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,LABORATORIUM,,,0
+781,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,LANSIA,,,0
+782,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,MATA,,,0
+783,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,PKPR,,,0
+784,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Poli PCR-SWAB,,,0
+785,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,PSIKOLOGI,24,20,44
+786,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,PTRM,,,0
+787,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,RAWAT INAP,,,0
+788,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,SANITASI,,,0
+789,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,STD,44,67,111
+790,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,TBC/PARU,,,0
+791,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,UMUM,191,1726,1917
+792,Januari,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,VCT,,,0
+793,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,BATRA,0,3,3
+794,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,GIGI,28,135,163
+795,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,GIZI,,,0
+796,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,INSTALASI GAWAT DARURAT,,,0
+797,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,KIA,139,487,626
+798,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,LABORATORIUM,,,0
+799,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,LANSIA,22,500,522
+800,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,MATA,,,0
+801,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,PKPR,,,0
+802,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,Poli PCR-SWAB,,,0
+803,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,PSIKOLOGI,,,0
+804,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,PTRM,,,0
+805,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,RAWAT INAP,,,0
+806,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,SANITASI,,,0
+807,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,STD,,,0
+808,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,TBC/PARU,3,32,35
+809,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,UMUM,228,1139,1367
+810,Januari,Surabaya Timur,Tambaksari,Puskesmas Rangkah,VCT,,,0
+811,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,BATRA,,,0
+812,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,GIGI,31,126,157
+813,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,GIZI,0,4,4
+814,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,INSTALASI GAWAT DARURAT,,,0
+815,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,KIA,81,117,198
+816,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,LABORATORIUM,,,0
+817,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,LANSIA,11,200,211
+818,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,MATA,,,0
+819,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,PKPR,,,0
+820,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Poli PCR-SWAB,,,0
+821,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,PSIKOLOGI,,,0
+822,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,PTRM,,,0
+823,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,RAWAT INAP,,,0
+824,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,SANITASI,,,0
+825,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,STD,,,0
+826,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,TBC/PARU,,,0
+827,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,UMUM,235,1504,1739
+828,Januari,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,VCT,,,0
+829,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,BATRA,,,0
+830,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,GIGI,36,173,209
+831,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,GIZI,1,6,7
+832,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,INSTALASI GAWAT DARURAT,,,0
+833,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,KIA,124,476,600
+834,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,LABORATORIUM,,,0
+835,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,LANSIA,12,550,562
+836,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,MATA,,,0
+837,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,PKPR,,,0
+838,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,Poli PCR-SWAB,2,5,7
+839,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,PSIKOLOGI,0,21,21
+840,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,PTRM,,,0
+841,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,RAWAT INAP,,,0
+842,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,SANITASI,,,0
+843,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,STD,,,0
+844,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,TBC/PARU,,,0
+845,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,UMUM,197,1411,1608
+846,Januari,Surabaya Selatan,Sawahan,Puskesmas Sawahan,VCT,,,0
+847,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,BATRA,0,2,2
+848,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,GIGI,35,284,319
+849,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,GIZI,1,1,2
+850,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,INSTALASI GAWAT DARURAT,5,10,15
+851,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,KIA,163,710,873
+852,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,LABORATORIUM,,,0
+853,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,LANSIA,8,335,343
+854,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,MATA,,,0
+855,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,PKPR,,,0
+856,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,Poli PCR-SWAB,,,0
+857,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,PSIKOLOGI,1,5,6
+858,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,PTRM,,,0
+859,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,RAWAT INAP,,,0
+860,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,SANITASI,,,0
+861,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,STD,,,0
+862,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,TBC/PARU,,,0
+863,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,UMUM,237,1336,1573
+864,Januari,Surabaya Barat,Benowo,Puskesmas Sememi,VCT,3,14,17
+865,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,BATRA,3,7,10
+866,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,GIGI,14,95,109
+867,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,GIZI,0,1,1
+868,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,INSTALASI GAWAT DARURAT,,,0
+869,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,KIA,84,317,401
+870,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,LABORATORIUM,,,0
+871,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,LANSIA,8,380,388
+872,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,MATA,,,0
+873,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,PKPR,,,0
+874,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Poli PCR-SWAB,,,0
+875,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,PSIKOLOGI,1,0,1
+876,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,PTRM,,,0
+877,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,RAWAT INAP,,,0
+878,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,SANITASI,,,0
+879,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,STD,,,0
+880,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,TBC/PARU,,,0
+881,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,UMUM,154,998,1152
+882,Januari,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,VCT,,,0
+883,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,BATRA,2,12,14
+884,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,GIGI,59,140,199
+885,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,GIZI,78,281,359
+886,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,INSTALASI GAWAT DARURAT,,,0
+887,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,KIA,67,181,248
+888,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,LABORATORIUM,,,0
+889,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,LANSIA,6,254,260
+890,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,MATA,,,0
+891,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,PKPR,,,0
+892,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,Poli PCR-SWAB,,,0
+893,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,PSIKOLOGI,,,0
+894,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,PTRM,,,0
+895,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,RAWAT INAP,,,0
+896,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,SANITASI,,,0
+897,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,STD,,,0
+898,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,TBC/PARU,1,69,70
+899,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,UMUM,263,1379,1642
+900,Januari,Surabaya Utara,Semampir,Puskesmas Sidotopo,VCT,,,0
+901,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,BATRA,0,1,1
+902,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,GIGI,39,174,213
+903,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,GIZI,,,0
+904,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,INSTALASI GAWAT DARURAT,1,0,1
+905,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,KIA,141,481,622
+906,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,LABORATORIUM,,,0
+907,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,LANSIA,3,416,419
+908,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,MATA,,,0
+909,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,PKPR,,,0
+910,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Poli PCR-SWAB,,,0
+911,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,PSIKOLOGI,,,0
+912,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,PTRM,,,0
+913,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,RAWAT INAP,,,0
+914,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,SANITASI,,,0
+915,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,STD,,,0
+916,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,TBC/PARU,0,105,105
+917,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,UMUM,169,1579,1748
+918,Januari,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,VCT,,,0
+919,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,BATRA,0,4,4
+920,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,GIGI,11,105,116
+921,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,GIZI,2,8,10
+922,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,INSTALASI GAWAT DARURAT,,,0
+923,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,KIA,76,569,645
+924,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,LABORATORIUM,,,0
+925,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,LANSIA,15,416,431
+926,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,MATA,,,0
+927,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,PKPR,,,0
+928,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,Poli PCR-SWAB,,,0
+929,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,PSIKOLOGI,0,3,3
+930,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,PTRM,,,0
+931,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,RAWAT INAP,,,0
+932,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,SANITASI,,,0
+933,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,STD,,,0
+934,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,TBC/PARU,,,0
+935,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,UMUM,87,1397,1484
+936,Januari,Surabaya Pusat,Simokerto,Puskesmas Simolawang,VCT,,,0
+937,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,BATRA,2,23,25
+938,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,GIGI,37,225,262
+939,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,GIZI,1,1,2
+940,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,INSTALASI GAWAT DARURAT,18,32,50
+941,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,KIA,192,865,1057
+942,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,LABORATORIUM,,,0
+943,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,LANSIA,40,1068,1108
+944,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,MATA,,,0
+945,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,PKPR,,,0
+946,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Poli PCR-SWAB,,,0
+947,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,PSIKOLOGI,1,6,7
+948,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,PTRM,,,0
+949,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,RAWAT INAP,4,13,17
+950,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,SANITASI,0,1,1
+951,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,STD,,,0
+952,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,TBC/PARU,,,0
+953,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,UMUM,275,1523,1798
+954,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,VCT,,,0
+955,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,BATRA,1,16,17
+956,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,GIGI,26,172,198
+957,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,GIZI,0,5,5
+958,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,INSTALASI GAWAT DARURAT,13,18,31
+959,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,KIA,77,525,602
+960,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,LABORATORIUM,,,0
+961,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,LANSIA,4,253,257
+962,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,MATA,,,0
+963,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,PKPR,,,0
+964,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Poli PCR-SWAB,,,0
+965,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,PSIKOLOGI,,,0
+966,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,PTRM,,,0
+967,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,RAWAT INAP,1,5,6
+968,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,SANITASI,,,0
+969,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,STD,,,0
+970,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,TBC/PARU,,,0
+971,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,UMUM,312,1384,1696
+972,Januari,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,VCT,,,0
+973,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,BATRA,1,17,18
+974,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,GIGI,38,219,257
+975,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,GIZI,,,0
+976,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,INSTALASI GAWAT DARURAT,,,0
+977,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,KIA,110,326,436
+978,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,LABORATORIUM,,,0
+979,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,LANSIA,8,128,136
+980,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,MATA,,,0
+981,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,PKPR,,,0
+982,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Poli PCR-SWAB,,,0
+983,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,PSIKOLOGI,0,3,3
+984,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,PTRM,,,0
+985,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,RAWAT INAP,,,0
+986,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,SANITASI,,,0
+987,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,STD,,,0
+988,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,TBC/PARU,,,0
+989,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,UMUM,135,802,937
+990,Januari,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,VCT,,,0
+991,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,BATRA,0,2,2
+992,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,GIGI,11,146,157
+993,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,GIZI,0,1,1
+994,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,INSTALASI GAWAT DARURAT,,,0
+995,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,KIA,47,472,519
+996,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,LABORATORIUM,,,0
+997,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,LANSIA,,,0
+998,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,MATA,,,0
+999,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,PKPR,0,10,10
+1000,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Poli PCR-SWAB,,,0
+1001,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,PSIKOLOGI,0,1,1
+1002,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,PTRM,,,0
+1003,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,RAWAT INAP,,,0
+1004,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,SANITASI,,,0
+1005,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,STD,,,0
+1006,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,TBC/PARU,,,0
+1007,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,UMUM,76,1624,1700
+1008,Januari,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,VCT,,,0
+1009,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,BATRA,0,6,6
+1010,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,GIGI,34,224,258
+1011,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,GIZI,,,0
+1012,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,INSTALASI GAWAT DARURAT,4,2,6
+1013,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,KIA,164,744,908
+1014,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,LABORATORIUM,,,0
+1015,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,LANSIA,18,471,489
+1016,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,MATA,,,0
+1017,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,PKPR,,,0
+1018,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Poli PCR-SWAB,,,0
+1019,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,PSIKOLOGI,13,76,89
+1020,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,PTRM,,,0
+1021,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,RAWAT INAP,7,12,19
+1022,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,SANITASI,,,0
+1023,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,STD,,,0
+1024,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,TBC/PARU,,,0
+1025,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,UMUM,260,1801,2061
+1026,Januari,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,VCT,,,0
+1027,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,BATRA,,,0
+1028,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,GIGI,29,163,192
+1029,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,GIZI,0,1,1
+1030,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,INSTALASI GAWAT DARURAT,14,6,20
+1031,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,KIA,78,220,298
+1032,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,LABORATORIUM,,,0
+1033,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,LANSIA,,,0
+1034,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,MATA,,,0
+1035,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,PKPR,,,0
+1036,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Poli PCR-SWAB,,,0
+1037,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,PSIKOLOGI,0,2,2
+1038,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,PTRM,,,0
+1039,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,RAWAT INAP,3,0,3
+1040,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,SANITASI,,,0
+1041,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,STD,,,0
+1042,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,TBC/PARU,,,0
+1043,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,UMUM,182,761,943
+1044,Januari,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,VCT,,,0
+1045,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,BATRA,0,3,3
+1046,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,GIGI,23,174,197
+1047,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,GIZI,7,15,22
+1048,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,INSTALASI GAWAT DARURAT,,,0
+1049,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,KIA,137,383,520
+1050,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,LABORATORIUM,,,0
+1051,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,LANSIA,,,0
+1052,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,MATA,,,0
+1053,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,PKPR,,,0
+1054,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Poli PCR-SWAB,,,0
+1055,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,PSIKOLOGI,2,6,8
+1056,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,PTRM,,,0
+1057,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,RAWAT INAP,,,0
+1058,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,SANITASI,,,0
+1059,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,STD,,,0
+1060,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,TBC/PARU,,,0
+1061,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,UMUM,291,1911,2202
+1062,Januari,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,VCT,,,0
+1063,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,BATRA,,,0
+1064,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,GIGI,61,625,686
+1065,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,GIZI,0,1,1
+1066,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,INSTALASI GAWAT DARURAT,,,0
+1067,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,KIA,268,1150,1418
+1068,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,LABORATORIUM,,,0
+1069,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,LANSIA,41,733,774
+1070,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,MATA,,,0
+1071,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,PKPR,,,0
+1072,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Poli PCR-SWAB,,,0
+1073,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,PSIKOLOGI,,,0
+1074,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,PTRM,,,0
+1075,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,RAWAT INAP,,,0
+1076,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,SANITASI,,,0
+1077,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,STD,,,0
+1078,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,TBC/PARU,,,0
+1079,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,UMUM,335,1877,2212
+1080,Januari,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,VCT,,,0
+1081,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,BATRA,3,34,37
+1082,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,GIGI,45,332,377
+1083,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,GIZI,0,2,2
+1084,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,INSTALASI GAWAT DARURAT,1,1,2
+1085,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,KIA,123,434,557
+1086,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,LABORATORIUM,,,0
+1087,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,LANSIA,12,556,568
+1088,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,MATA,,,0
+1089,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,PKPR,9,26,35
+1090,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,Poli PCR-SWAB,,,0
+1091,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,PSIKOLOGI,,,0
+1092,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,PTRM,,,0
+1093,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,RAWAT INAP,,,0
+1094,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,SANITASI,,,0
+1095,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,STD,,,0
+1096,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,TBC/PARU,,,0
+1097,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,UMUM,184,1309,1493
+1098,Januari,Surabaya Selatan,Wiyung,Puskesmas Wiyung,VCT,,,0
+1099,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,BATRA,0,18,18
+1100,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,GIGI,25,153,178
+1101,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,GIZI,0,1,1
+1102,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,INSTALASI GAWAT DARURAT,,,0
+1103,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,KIA,116,431,547
+1104,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,LABORATORIUM,,,0
+1105,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,LANSIA,14,506,520
+1106,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,MATA,,,0
+1107,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,PKPR,,,0
+1108,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Poli PCR-SWAB,,,0
+1109,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,PSIKOLOGI,3,7,10
+1110,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,PTRM,,,0
+1111,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,RAWAT INAP,,,0
+1112,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,SANITASI,,,0
+1113,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,STD,,,0
+1114,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,TBC/PARU,,,0
+1115,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,UMUM,132,1035,1167
+1116,Januari,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,VCT,,,0
+1117,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,BATRA,0,2,2
+1118,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,GIGI,59,306,365
+1119,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,GIZI,0,1,1
+1120,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,INSTALASI GAWAT DARURAT,,,0
+1121,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,KIA,94,532,626
+1122,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,LABORATORIUM,,,0
+1123,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,LANSIA,18,512,530
+1124,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,MATA,,,0
+1125,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,PKPR,,,0
+1126,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,Poli PCR-SWAB,,,0
+1127,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,PSIKOLOGI,2,0,2
+1128,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,PTRM,,,0
+1129,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,RAWAT INAP,,,0
+1130,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,SANITASI,,,0
+1131,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,STD,,,0
+1132,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,TBC/PARU,,,0
+1133,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,UMUM,300,1474,1774
+1134,Januari,Surabaya Utara,Semampir,Puskesmas Wonokusumo,VCT,,,0

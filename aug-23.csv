@@ -1,0 +1,569 @@
+﻿_id,Periode,Wilayah,Kecamatan,Nama Puskesmas,Poli,Baru,Lama,Total
+1,Agustus,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,BATRA,6,26,32
+2,Agustus,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,GIGI,68,422,490
+3,Agustus,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,GIZI,0,3,3
+4,Agustus,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,KIA,164,709,873
+5,Agustus,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,LANSIA,5,463,468
+6,Agustus,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,PSIKOLOGI,3,3,6
+7,Agustus,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,SANITASI,0,3,3
+8,Agustus,Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,UMUM,261,2166,2427
+9,Agustus,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,BATRA,3,73,76
+10,Agustus,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,GIGI,66,313,379
+11,Agustus,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,GIZI,0,8,8
+12,Agustus,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,KIA,83,429,512
+13,Agustus,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,LANSIA,30,351,381
+14,Agustus,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,PSIKOLOGI,4,16,20
+15,Agustus,Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,UMUM,191,962,1153
+16,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,BATRA,2,36,38
+17,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,GIGI,56,409,465
+18,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,GIZI,1,9,10
+19,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,INSTALASI GAWAT DARURAT,15,6,21
+20,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,KIA,184,704,888
+21,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,LANSIA,9,596,605
+22,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,P2M,0,72,72
+23,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,PALIATIF,0,15,15
+24,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,PSIKOLOGI,2,13,15
+25,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,RAWAT INAP,1,4,5
+26,Agustus,Surabaya Barat,Tandes,Puskesmas Balongsari,UMUM,292,1470,1762
+27,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,BATRA,1,41,42
+28,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,GIGI,47,326,373
+29,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,GIZI,1,6,7
+30,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,HAMIL,12,86,98
+31,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,KIA,63,455,518
+32,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,LANSIA,13,219,232
+33,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,PSIKOLOGI,18,33,51
+34,Agustus,Surabaya Selatan,Lakarsantri,Puskesmas Bangkingan,SANITASI,0,6,6
+35,Agustus,Surabaya Selatan,Lakarsantri,Puskesmas Bangkingan,UMUM,105,1123,1228
+36,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,BATRA,2,16,18
+37,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,GIGI,43,362,405
+38,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,GIZI,0,3,3
+39,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,INSTALASI GAWAT DARURAT,42,162,204
+40,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,KIA,125,937,1062
+41,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,LANSIA,19,791,810
+42,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PARU,12,235,247
+43,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PKPR,43,40,83
+44,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,PSIKOLOGI,2,11,13
+45,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,RAWAT INAP,2,27,29
+46,Agustus,Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,UMUM,305,2834,3139
+47,Agustus,Surabaya Barat,Pakal,Puskesmas Benowo,BATRA,2,6,8
+48,Agustus,Surabaya Barat,Pakal,Puskesmas Benowo,GIGI,88,769,857
+49,Agustus,Surabaya Barat,Pakal,Puskesmas Benowo,GIZI,33,59,92
+50,Agustus,Surabaya Barat,Pakal,Puskesmas Benowo,KIA,206,1087,1293
+51,Agustus,Surabaya Barat,Pakal,Puskesmas Benowo,LANSIA,22,749,771
+52,Agustus,Surabaya Barat,Pakal,Puskesmas Benowo,PSIKOLOGI,1,14,15
+53,Agustus,Surabaya Barat,Pakal,Puskesmas Benowo,RAWAT INAP,1,0,1
+54,Agustus,Surabaya Barat,Pakal,Puskesmas Benowo,UMUM,258,2504,2762
+55,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,BATRA,4,49,53
+56,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,GIGI,86,594,680
+57,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,GIZI,12,42,54
+58,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,INSTALASI GAWAT DARURAT,15,3,18
+59,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,KIA,174,1053,1227
+60,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,LANSIA,19,382,401
+61,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,PSIKOLOGI,8,36,44
+62,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,RAWAT INAP,2,11,13
+63,Agustus,Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,UMUM,252,2508,2760
+64,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,BATRA,7,25,32
+65,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,GIGI,43,240,283
+66,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,GIZI,2,8,10
+67,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,INSTALASI GAWAT DARURAT,2,0,2
+68,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,KIA,165,712,877
+69,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,LANSIA,26,568,594
+70,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,PSIKOLOGI,14,13,27
+71,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,UMUM,284,1952,2236
+72,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,ANAK,147,637,784
+73,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,BATRA,0,44,44
+74,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,GIGI,72,551,623
+75,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,GIZI,0,1,1
+76,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,INSTALASI GAWAT DARURAT,56,58,114
+77,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,KIA,73,373,446
+78,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,LANSIA,45,866,911
+79,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,PARU,0,48,48
+80,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,PKPR,72,64,136
+81,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,PSIKOLOGI,7,22,29
+82,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,RAWAT INAP,4,37,41
+83,Agustus,Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,UMUM,588,2422,3010
+84,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,BATRA,2,30,32
+85,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,GIGI,24,351,375
+86,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,GIZI,2,27,29
+87,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,INSTALASI GAWAT DARURAT,34,77,111
+88,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,KIA,132,906,1038
+89,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,LANSIA,16,565,581
+90,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,PSIKOLOGI,0,8,8
+91,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,RAWAT INAP,28,29,57
+92,Agustus,Surabaya Utara,Krembangan,Puskesmas Dupak,UMUM,160,1973,2133
+93,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,ANAK,216,844,1060
+94,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,BATRA,3,39,42
+95,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,DEGENARATIF,1,169,170
+96,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,GIGI,71,531,602
+97,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,GIZI,71,90,161
+98,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,KIA,72,614,686
+99,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,LANSIA,41,786,827
+100,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,PARU,6,131,137
+101,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,PSIKOLOGI,4,31,35
+102,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,UMUM,384,3663,4047
+103,Agustus,Surabaya Timur,Tambaksari,Puskesmas Gading,VAKSIN D1,0,2,2
+104,Agustus,Surabaya Selatan,Gayungan,Puskesmas Gayungan,BATRA,0,119,119
+105,Agustus,Surabaya Selatan,Gayungan,Puskesmas Gayungan,GIGI,44,755,799
+106,Agustus,Surabaya Selatan,Gayungan,Puskesmas Gayungan,GIZI,7,72,79
+107,Agustus,Surabaya Selatan,Gayungan,Puskesmas Gayungan,INSTALASI GAWAT DARURAT,1,0,1
+108,Agustus,Surabaya Selatan,Gayungan,Puskesmas Gayungan,KIA,160,799,959
+109,Agustus,Surabaya Selatan,Gayungan,Puskesmas Gayungan,LANSIA,27,937,964
+110,Agustus,Surabaya Selatan,Gayungan,Puskesmas Gayungan,PSIKOLOGI,9,34,43
+111,Agustus,Surabaya Selatan,Gayungan,Puskesmas Gayungan,UMUM,340,2071,2411
+112,Agustus,Surabaya Pusat,Bubutan,Puskesmas Gundih,BATRA,2,18,20
+113,Agustus,Surabaya Pusat,Bubutan,Puskesmas Gundih,GIGI,14,304,318
+114,Agustus,Surabaya Pusat,Bubutan,Puskesmas Gundih,GIZI,2,27,29
+115,Agustus,Surabaya Pusat,Bubutan,Puskesmas Gundih,KIA,77,790,867
+116,Agustus,Surabaya Pusat,Bubutan,Puskesmas Gundih,LANSIA,8,489,497
+117,Agustus,Surabaya Pusat,Bubutan,Puskesmas Gundih,PARU,0,73,73
+118,Agustus,Surabaya Pusat,Bubutan,Puskesmas Gundih,PSIKOLOGI,13,30,43
+119,Agustus,Surabaya Pusat,Bubutan,Puskesmas Gundih,UMUM,88,1872,1960
+120,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,BATRA,6,49,55
+121,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,GIGI,69,375,444
+122,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,GIZI,19,27,46
+123,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,INSTALASI GAWAT DARURAT,14,5,19
+124,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,KIA,163,709,872
+125,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,LANSIA,27,651,678
+126,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,PKPR,51,58,109
+127,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,PSIKOLOGI,31,66,97
+128,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,RAWAT INAP,1,1,2
+129,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,SANITASI,0,1,1
+130,Agustus,Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,UMUM,373,1763,2136
+131,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,BATRA,4,60,64
+132,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,GIGI,177,1022,1199
+133,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,GIZI,5,27,32
+134,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,INSTALASI GAWAT DARURAT,56,80,136
+135,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,KIA,269,1316,1585
+136,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,LANSIA,61,1549,1610
+137,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,PKPR,0,1,1
+138,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,PSIKOLOGI,3,25,28
+139,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,RAWAT INAP,26,34,60
+140,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Jagir,UMUM,442,3474,3916
+141,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,BATRA,7,73,80
+142,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,GIGI,47,296,343
+143,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,GIZI,28,44,72
+144,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,KIA,117,493,610
+145,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,LANSIA,10,520,530
+146,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,PSIKOLOGI,29,48,77
+147,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Jemursari,UMUM,266,1774,2040
+148,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,BATRA,2,14,16
+149,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,GIGI,85,321,406
+150,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,GIZI,5,23,28
+151,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,INSTALASI GAWAT DARURAT,3,1,4
+152,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,KIA,39,242,281
+153,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,LANSIA,9,356,365
+154,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,PSIKOLOGI,5,20,25
+155,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,SANITASI,0,1,1
+156,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Jeruk,UMUM,311,1897,2208
+157,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,ANAK,27,317,344
+158,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,BATRA,6,53,59
+159,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,GIGI,43,354,397
+160,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,GIZI,1,12,13
+161,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,KIA,79,339,418
+162,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,LANSIA,16,461,477
+163,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,P2M,1,53,54
+164,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,PSIKOLOGI,1,9,10
+165,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,UMUM,220,1401,1621
+166,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,BATRA,3,123,126
+167,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,GIGI,59,396,455
+168,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,GIGI SPESIALIS ,7,460,467
+169,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,GIZI,14,55,69
+170,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,KIA,165,1109,1274
+171,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,LANSIA,10,836,846
+172,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,PARU,0,67,67
+173,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,PSIKOLOGI,17,47,64
+174,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,SANITASI,0,3,3
+175,Agustus,Surabaya Timur,Rungkut,Puskesmas Kalirungkut,UMUM,324,2730,3054
+176,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,ANAK,68,480,548
+177,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,BATRA,1,112,113
+178,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,GIGI,62,338,400
+179,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,GIZI,3,6,9
+180,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,INSTALASI GAWAT DARURAT,46,69,115
+181,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,KIA,98,704,802
+182,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,LANSIA,28,673,701
+183,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,MEDICAL CHECK UP,40,48,88
+184,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,P2M,4,74,78
+185,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,PSIKOLOGI,32,35,67
+186,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,RAWAT INAP,4,22,26
+187,Agustus,Surabaya Selatan,Jambangan,Puskesmas Kebonsari,UMUM,366,2660,3026
+188,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,BATRA,5,119,124
+189,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,GIGI,47,430,477
+190,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,GIZI,11,32,43
+191,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,INSTALASI GAWAT DARURAT,20,373,393
+192,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,KIA,128,669,797
+193,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,PARU,5,73,78
+194,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,PSIKOLOGI,13,34,47
+195,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,SANITASI,2,10,12
+196,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,UMUM,245,2640,2885
+197,Agustus,Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,VCT,50,289,339
+198,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,BATRA,2,61,63
+199,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,GIGI,91,495,586
+200,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,GIZI,23,78,101
+201,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,INSTALASI GAWAT DARURAT,20,20,40
+202,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,KIA,268,1118,1386
+203,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,LANSIA,70,1386,1456
+204,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,PARU,0,54,54
+205,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,PSIKOLOGI,4,30,34
+206,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,RAWAT INAP,6,3,9
+207,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,SANITASI,0,1,1
+208,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,UMUM,402,2560,2962
+209,Agustus,Surabaya Pusat,Karang Pilang,Puskesmas Kedurus,VCT,6,105,111
+210,Agustus,Surabaya Utara,Bulak,Puskesmas Kenjeran,BATRA,0,18,18
+211,Agustus,Surabaya Utara,Bulak,Puskesmas Kenjeran,GIGI,61,345,406
+212,Agustus,Surabaya Utara,Bulak,Puskesmas Kenjeran,GIZI,8,42,50
+213,Agustus,Surabaya Utara,Bulak,Puskesmas Kenjeran,INSTALASI GAWAT DARURAT,1,0,1
+214,Agustus,Surabaya Utara,Bulak,Puskesmas Kenjeran,KIA,127,697,824
+215,Agustus,Surabaya Utara,Bulak,Puskesmas Kenjeran,PSIKOLOGI,7,28,35
+216,Agustus,Surabaya Utara,Bulak,Puskesmas Kenjeran,UMUM,226,2405,2631
+217,Agustus,Surabaya Timur,Sukolilo,Puskesmas Keputih,BATRA,2,17,19
+218,Agustus,Surabaya Timur,Sukolilo,Puskesmas Keputih,GIGI,37,205,242
+219,Agustus,Surabaya Timur,Sukolilo,Puskesmas Keputih,GIZI,0,2,2
+220,Agustus,Surabaya Timur,Sukolilo,Puskesmas Keputih,KIA,111,517,628
+221,Agustus,Surabaya Timur,Sukolilo,Puskesmas Keputih,LANSIA,9,331,340
+222,Agustus,Surabaya Timur,Sukolilo,Puskesmas Keputih,PSIKOLOGI,5,9,14
+223,Agustus,Surabaya Timur,Sukolilo,Puskesmas Keputih,SANITASI,0,1,1
+224,Agustus,Surabaya Timur,Sukolilo,Puskesmas Keputih,UMUM,305,1256,1561
+225,Agustus,Surabaya Pusat,Genteng,Puskesmas Ketabang,BATRA,1,55,56
+226,Agustus,Surabaya Pusat,Genteng,Puskesmas Ketabang,GIGI,55,366,421
+227,Agustus,Surabaya Pusat,Genteng,Puskesmas Ketabang,GIZI,1,14,15
+228,Agustus,Surabaya Pusat,Genteng,Puskesmas Ketabang,KIA,72,392,464
+229,Agustus,Surabaya Pusat,Genteng,Puskesmas Ketabang,LANSIA,20,632,652
+230,Agustus,Surabaya Pusat,Genteng,Puskesmas Ketabang,PSIKOLOGI,1,4,5
+231,Agustus,Surabaya Pusat,Genteng,Puskesmas Ketabang,UMUM,219,1822,2041
+232,Agustus,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,BATRA,3,37,40
+233,Agustus,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,GIGI,48,395,443
+234,Agustus,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,GIZI,0,6,6
+235,Agustus,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,KIA,87,513,600
+236,Agustus,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,LANSIA,17,443,460
+237,Agustus,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,PSIKOLOGI,2,16,18
+238,Agustus,Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,UMUM,334,1611,1945
+239,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,BATRA,2,43,45
+240,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,GIGI,41,286,327
+241,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,GIZI,26,58,84
+242,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,INSTALASI GAWAT DARURAT,57,123,180
+243,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,KESEHATAN JIWA,0,3,3
+244,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,KIA,123,972,1095
+245,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,LANSIA,23,576,599
+246,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,PSIKOLOGI,20,43,63
+247,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,RAWAT INAP,5,19,24
+248,Agustus,Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,UMUM,364,2139,2503
+249,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,BATRA,1,27,28
+250,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,GIGI,59,350,409
+251,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,GIZI,0,11,11
+252,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,KIA,84,536,620
+253,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,LANSIA,7,472,479
+254,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,PSIKOLOGI,2,11,13
+255,Agustus,Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,UMUM,364,1929,2293
+256,Agustus,Surabaya Barat,Sambikerep,Puskesmas Lontar,BATRA,3,12,15
+257,Agustus,Surabaya Barat,Sambikerep,Puskesmas Lontar,GIGI,71,319,390
+258,Agustus,Surabaya Barat,Sambikerep,Puskesmas Lontar,GIZI,13,14,27
+259,Agustus,Surabaya Barat,Sambikerep,Puskesmas Lontar,KIA,165,553,718
+260,Agustus,Surabaya Barat,Sambikerep,Puskesmas Lontar,LANSIA,25,335,360
+261,Agustus,Surabaya Barat,Sambikerep,Puskesmas Lontar,PSIKOLOGI,3,14,17
+262,Agustus,Surabaya Barat,Sambikerep,Puskesmas Lontar,UMUM,301,1523,1824
+263,Agustus,Surabaya Barat,Tandes,Puskesmas Made,BATRA,0,26,26
+264,Agustus,Surabaya Barat,Tandes,Puskesmas Made,GIGI,33,305,338
+265,Agustus,Surabaya Barat,Tandes,Puskesmas Made,GIZI,2,27,29
+266,Agustus,Surabaya Barat,Tandes,Puskesmas Made,KIA,86,487,573
+267,Agustus,Surabaya Barat,Tandes,Puskesmas Made,LANSIA,12,276,288
+268,Agustus,Surabaya Barat,Tandes,Puskesmas Made,PSIKOLOGI,3,14,17
+269,Agustus,Surabaya Barat,Tandes,Puskesmas Made,SANITASI,0,1,1
+270,Agustus,Surabaya Barat,Tandes,Puskesmas Made,UMUM,174,1260,1434
+271,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,BATRA,0,76,76
+272,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,GIGI,79,449,528
+273,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,GIZI,8,15,23
+274,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,INSTALASI GAWAT DARURAT,39,55,94
+275,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,KIA,241,1206,1447
+276,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,LANSIA,36,1307,1343
+277,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,PSIKOLOGI,3,24,27
+278,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,PTRM,0,44,44
+279,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,RAWAT INAP,3,27,30
+280,Agustus,Surabaya Barat,Tandes,Puskesmas Manukan Kulon,UMUM,474,3227,3701
+281,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,BATRA,8,149,157
+282,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,GIGI,221,845,1066
+283,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,GIZI,5,19,24
+284,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,INSTALASI GAWAT DARURAT,1,0,1
+285,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,KIA,273,1179,1452
+286,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,LANSIA,33,893,926
+287,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,LOKET,0,1,1
+288,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,PSIKOLOGI,50,76,126
+289,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,RAWAT INAP,17,118,135
+290,Agustus,Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,UMUM,452,3207,3659
+291,Agustus,Surabaya Timur,Sukolilo,Puskesmas Menur,BATRA,0,84,84
+292,Agustus,Surabaya Timur,Sukolilo,Puskesmas Menur,GIGI,83,533,616
+293,Agustus,Surabaya Timur,Sukolilo,Puskesmas Menur,GIZI,0,8,8
+294,Agustus,Surabaya Timur,Sukolilo,Puskesmas Menur,KIA,126,706,832
+295,Agustus,Surabaya Timur,Sukolilo,Puskesmas Menur,LANSIA,27,949,976
+296,Agustus,Surabaya Timur,Sukolilo,Puskesmas Menur,PSIKOLOGI,5,17,22
+297,Agustus,Surabaya Timur,Sukolilo,Puskesmas Menur,UMUM,256,2022,2278
+298,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,BATRA,2,38,40
+299,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,GIGI,32,436,468
+300,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,GIZI,0,3,3
+301,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,KIA,204,652,856
+302,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,LANSIA,22,907,929
+303,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,MEDICAL CHECK UP,0,3,3
+304,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,P2M,7,161,168
+305,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,PSIKOLOGI,1,10,11
+306,Agustus,Surabaya Timur,Gubeng,Puskesmas Mojo,UMUM,341,2477,2818
+307,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,ANAK,81,633,714
+308,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,BATRA,4,21,25
+309,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,GIGI,48,252,300
+310,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,GIZI,19,115,134
+311,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,KIA,80,285,365
+312,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,LANSIA,19,693,712
+313,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,PSIKOLOGI,9,42,51
+314,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,SANITASI,0,1,1
+315,Agustus,Surabaya Utara,Krembangan,Puskesmas Moro Krembangan ,UMUM,195,1988,2183
+316,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,BATRA,6,60,66
+317,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,GIGI,131,444,575
+318,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,GIZI,47,67,114
+319,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,HAMIL,50,226,276
+320,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,INSTALASI GAWAT DARURAT,7,14,21
+321,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,KIA,138,586,724
+322,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,LANSIA,33,644,677
+323,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,PSIKOLOGI,57,64,121
+324,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,RAWAT INAP,8,18,26
+325,Agustus,Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,UMUM,373,1769,2142
+326,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,BATRA,1,27,28
+327,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,GIGI,33,550,583
+328,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,KIA,151,1935,2086
+329,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,LANSIA,24,938,962
+330,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,Pelayanan Anak Berkebutuhan Khusus(ABK),38,205,243
+331,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,PSIKOLOGI,3,15,18
+332,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Ngagel Rejo,UMUM,284,1784,2068
+333,Agustus,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,BATRA,0,52,52
+334,Agustus,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,GIGI,33,271,304
+335,Agustus,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,GIZI,2,26,28
+336,Agustus,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,KIA,120,836,956
+337,Agustus,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,LANSIA,0,7,7
+338,Agustus,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,PSIKOLOGI,0,48,48
+339,Agustus,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,SANITASI,0,2,2
+340,Agustus,Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,UMUM,247,2730,2977
+341,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,BATRA,1,58,59
+342,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,GIGI,22,415,437
+343,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,GIZI,1,35,36
+344,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,KIA,90,791,881
+345,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,LANSIA,7,706,713
+346,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,PARU,1,143,144
+347,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,PSIKOLOGI,5,23,28
+348,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,RAWAT INAP,3,3,6
+349,Agustus,Surabaya Selatan,Sawahan,Puskesmas Pakis,UMUM,302,2464,2766
+350,Agustus,Surabaya Selatan,Semampir,Puskesmas Pegirian,BATRA,2,80,82
+351,Agustus,Surabaya Selatan,Semampir,Puskesmas Pegirian,GIGI,40,307,347
+352,Agustus,Surabaya Selatan,Semampir,Puskesmas Pegirian,GIZI,0,10,10
+353,Agustus,Surabaya Selatan,Semampir,Puskesmas Pegirian,KIA,133,832,965
+354,Agustus,Surabaya Selatan,Semampir,Puskesmas Pegirian,LANSIA,14,490,504
+355,Agustus,Surabaya Selatan,Semampir,Puskesmas Pegirian,PSIKOLOGI,26,67,93
+356,Agustus,Surabaya Selatan,Semampir,Puskesmas Pegirian,SANITASI,9,67,76
+357,Agustus,Surabaya Selatan,Semampir,Puskesmas Pegirian,UMUM,172,2128,2300
+358,Agustus,Surabaya Pusat,Genteng,Puskesmas Peneleh,BATRA,1,10,11
+359,Agustus,Surabaya Pusat,Genteng,Puskesmas Peneleh,GIGI,50,298,348
+360,Agustus,Surabaya Pusat,Genteng,Puskesmas Peneleh,GIZI,4,25,29
+361,Agustus,Surabaya Pusat,Genteng,Puskesmas Peneleh,KIA,114,561,675
+362,Agustus,Surabaya Pusat,Genteng,Puskesmas Peneleh,LANSIA,20,704,724
+363,Agustus,Surabaya Pusat,Genteng,Puskesmas Peneleh,PSIKOLOGI,1,2,3
+364,Agustus,Surabaya Pusat,Genteng,Puskesmas Peneleh,SANITASI,1,1,2
+365,Agustus,Surabaya Pusat,Genteng,Puskesmas Peneleh,UMUM,194,1987,2181
+366,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,ANAK,114,664,778
+367,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,BATRA,2,32,34
+368,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,GIGI,44,375,419
+369,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,GIZI,6,29,35
+370,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,INSTALASI GAWAT DARURAT,1,0,1
+371,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,KIA,88,438,526
+372,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,LANSIA,28,656,684
+373,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,PARU,3,90,93
+374,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,PSIKOLOGI,6,36,42
+375,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,STD,7,117,124
+376,Agustus,Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,UMUM,457,4060,4517
+377,Agustus,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,BATRA,2,94,96
+378,Agustus,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,GIGI,44,526,570
+379,Agustus,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,GIZI,1,1,2
+380,Agustus,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,INSTALASI GAWAT DARURAT,7,5,12
+381,Agustus,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,KIA,110,725,835
+382,Agustus,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,LANSIA,37,1447,1484
+383,Agustus,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,PSIKOLOGI,2,10,12
+384,Agustus,Surabaya Timur,Gubeng,Puskesmas Pucangsewu,UMUM,282,2448,2730
+385,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,BATRA,3,46,49
+386,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,GIGI,47,436,483
+387,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,GIZI,17,64,81
+388,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,INSTALASI GAWAT DARURAT,0,1,1
+389,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,KIA,123,717,840
+390,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,LANSIA,15,737,752
+391,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,PSIKOLOGI,44,90,134
+392,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,STD,40,37,77
+393,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,UMUM,244,2086,2330
+394,Agustus,Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,VCT,48,149,197
+395,Agustus,Surabaya Timur,Tambaksari,Puskesmas Rangkah,BATRA,2,20,22
+396,Agustus,Surabaya Timur,Tambaksari,Puskesmas Rangkah,GIGI,60,489,549
+397,Agustus,Surabaya Timur,Tambaksari,Puskesmas Rangkah,GIZI,3,29,32
+398,Agustus,Surabaya Timur,Tambaksari,Puskesmas Rangkah,KIA,712,1901,2613
+399,Agustus,Surabaya Timur,Tambaksari,Puskesmas Rangkah,LANSIA,33,904,937
+400,Agustus,Surabaya Timur,Tambaksari,Puskesmas Rangkah,PARU,0,89,89
+401,Agustus,Surabaya Timur,Tambaksari,Puskesmas Rangkah,PSIKOLOGI,28,47,75
+402,Agustus,Surabaya Timur,Tambaksari,Puskesmas Rangkah,UMUM,346,2693,3039
+403,Agustus,Surabaya Selatan,Sawahan,Puskesmas Sawahan,BATRA,3,53,56
+404,Agustus,Surabaya Selatan,Sawahan,Puskesmas Sawahan,GIGI,39,495,534
+405,Agustus,Surabaya Selatan,Sawahan,Puskesmas Sawahan,GIZI,18,46,64
+406,Agustus,Surabaya Selatan,Sawahan,Puskesmas Sawahan,KIA,116,883,999
+407,Agustus,Surabaya Selatan,Sawahan,Puskesmas Sawahan,LANSIA,14,876,890
+408,Agustus,Surabaya Selatan,Sawahan,Puskesmas Sawahan,PSIKOLOGI,16,48,64
+409,Agustus,Surabaya Selatan,Sawahan,Puskesmas Sawahan,UMUM,267,2676,2943
+410,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,ANAK,68,490,558
+411,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,BATRA,2,19,21
+412,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,GIGI,44,313,357
+413,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,GIZI,4,61,65
+414,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,INSTALASI GAWAT DARURAT,0,1,1
+415,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,KIA,83,329,412
+416,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,LANSIA,17,388,405
+417,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,PARU,3,85,88
+418,Agustus,Surabaya Utara,Semampir,Puskesmas Sawah Pulo,UMUM,154,1783,1937
+419,Agustus,Surabaya Barat,Benowo,Puskesmas Sememi,BATRA,0,44,44
+420,Agustus,Surabaya Barat,Benowo,Puskesmas Sememi,GIGI,57,550,607
+421,Agustus,Surabaya Barat,Benowo,Puskesmas Sememi,GIZI,2,8,10
+422,Agustus,Surabaya Barat,Benowo,Puskesmas Sememi,KIA,277,1327,1604
+423,Agustus,Surabaya Barat,Benowo,Puskesmas Sememi,LANSIA,16,725,741
+424,Agustus,Surabaya Barat,Benowo,Puskesmas Sememi,PSIKOLOGI,4,33,37
+425,Agustus,Surabaya Barat,Benowo,Puskesmas Sememi,UMUM,387,2923,3310
+426,Agustus,Surabaya Barat,Benowo,Puskesmas Sememi,VCT,12,32,44
+427,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,BATRA,0,39,39
+428,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,GIGI,52,281,333
+429,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,GIZI,21,61,82
+430,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,INSTALASI GAWAT DARURAT,0,1,1
+431,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,KIA,146,669,815
+432,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,LANSIA,13,690,703
+433,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,PSIKOLOGI,4,19,23
+434,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,UMUM,229,1871,2100
+435,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,BATRA,1,30,31
+436,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,GIGI,50,353,403
+437,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,GIZI,77,561,638
+438,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,INSTALASI GAWAT DARURAT,1,0,1
+439,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,KIA,91,320,411
+440,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,LANSIA,34,754,788
+441,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,PARU,5,112,117
+442,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,PSIKOLOGI,3,10,13
+443,Agustus,Surabaya Utara,Semampir,Puskesmas Sidotopo,UMUM,239,1795,2034
+444,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,BATRA,6,67,73
+445,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,GIGI,102,597,699
+446,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,GIZI,60,191,251
+447,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,INSTALASI GAWAT DARURAT,0,1,1
+448,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,KIA,293,1623,1916
+449,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,LANSIA,10,686,696
+450,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,LOKET,0,2,2
+451,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,PARU,0,176,176
+452,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,PSIKOLOGI,80,155,235
+453,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,RAWAT INAP,22,123,145
+454,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,SANITASI,56,176,232
+455,Agustus,Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,UMUM,399,3609,4008
+456,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,ANAK,106,676,782
+457,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,BATRA,2,18,20
+458,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,GIGI,26,488,514
+459,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,GIZI,3,44,47
+460,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,INSTALASI GAWAT DARURAT,0,1,1
+461,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,KIA,53,343,396
+462,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,LANSIA,19,614,633
+463,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,PARU,1,138,139
+464,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,PSIKOLOGI,34,115,149
+465,Agustus,Surabaya Pusat,Simokerto,Puskesmas Simolawang,UMUM,155,2175,2330
+466,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,ANAK,66,716,782
+467,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,BATRA,0,45,45
+468,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,GIGI,60,616,676
+469,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,GIZI,2,11,13
+470,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,INSTALASI GAWAT DARURAT,15,39,54
+471,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,KIA,186,810,996
+472,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,LANSIA,45,1566,1611
+473,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Poli PCR-SWAB,0,4,4
+474,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,PSIKOLOGI,6,29,35
+475,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,RAWAT INAP,0,16,16
+476,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,UMUM,338,2723,3061
+477,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,BATRA,5,53,58
+478,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,GIGI,36,336,372
+479,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,GIZI,4,10,14
+480,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,INSTALASI GAWAT DARURAT,27,68,95
+481,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,KIA,93,441,534
+482,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,LANSIA,15,479,494
+483,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,PSIKOLOGI,7,30,37
+484,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,RAWAT INAP,0,9,9
+485,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,SANITASI,0,3,3
+486,Agustus,Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,UMUM,264,2273,2537
+487,Agustus,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,BATRA,8,125,133
+488,Agustus,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,GIGI,42,322,364
+489,Agustus,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,GIZI,2,16,18
+490,Agustus,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,KIA,132,792,924
+491,Agustus,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,LANSIA,31,834,865
+492,Agustus,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,PKPR,23,167,190
+493,Agustus,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,PSIKOLOGI,7,19,26
+494,Agustus,Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,UMUM,236,1985,2221
+495,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,BATRA,1,17,18
+496,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,GIGI,41,338,379
+497,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,GIZI,2,19,21
+498,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,INSTALASI GAWAT DARURAT,1,0,1
+499,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,KIA,91,640,731
+500,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,LANSIA,9,259,268
+501,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,PSIKOLOGI,11,32,43
+502,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,SANITASI,0,1,1
+503,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,UMUM,139,1308,1447
+504,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,ANAK,83,532,615
+505,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,BATRA,0,42,42
+506,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,GIGI,61,573,634
+507,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,GIZI,1,7,8
+508,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,INSTALASI GAWAT DARURAT,15,21,36
+509,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,KIA,118,801,919
+510,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,LANSIA,23,622,645
+511,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,MEDICAL CHECK UP,55,62,117
+512,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,PSIKOLOGI,6,81,87
+513,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,RAWAT INAP,13,43,56
+514,Agustus,Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,UMUM,375,3251,3626
+515,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,GIGI,62,386,448
+516,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,GIZI,0,2,2
+517,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,INSTALASI GAWAT DARURAT,15,4,19
+518,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,KIA,101,381,482
+519,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,LANSIA,11,307,318
+520,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,PSIKOLOGI,1,7,8
+521,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,RAWAT INAP,2,4,6
+522,Agustus,Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,UMUM,197,1301,1498
+523,Agustus,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,BATRA,0,29,29
+524,Agustus,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,GIGI,46,379,425
+525,Agustus,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,GIZI,15,81,96
+526,Agustus,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,KIA,221,584,805
+527,Agustus,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,PSIKOLOGI,2,9,11
+528,Agustus,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,SANITASI,0,1,1
+529,Agustus,Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,UMUM,333,2844,3177
+530,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,BATRA,2,71,73
+531,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,DEGENARATIF,0,1,1
+532,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,GIGI,76,409,485
+533,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,GIZI,20,49,69
+534,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,INSTALASI GAWAT DARURAT,3,11,14
+535,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,KIA,251,1173,1424
+536,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,LANSIA,42,907,949
+537,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,PSIKOLOGI,4,26,30
+538,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,RAWAT INAP,2,10,12
+539,Agustus,Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,UMUM,353,2302,2655
+540,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,ANAK,101,630,731
+541,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,BATRA,9,106,115
+542,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,GIGI,59,743,802
+543,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,GIZI,1,10,11
+544,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,INSTALASI GAWAT DARURAT,0,1,1
+545,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,KIA,33,427,460
+546,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,LANSIA,17,681,698
+547,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,PKPR,63,85,148
+548,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,PSIKOLOGI,39,78,117
+549,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,SANITASI,1,21,22
+550,Agustus,Surabaya Selatan,Wiyung,Puskesmas Wiyung,UMUM,444,2893,3337
+551,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,BATRA,1,48,49
+552,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,GIGI,41,379,420
+553,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,GIZI,0,7,7
+554,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,INSTALASI GAWAT DARURAT,0,1,1
+555,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,KIA,129,644,773
+556,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,LANSIA,14,686,700
+557,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,PSIKOLOGI,2,15,17
+558,Agustus,Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,UMUM,232,1717,1949
+559,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,BATRA,2,15,17
+560,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,GIGI,49,583,632
+561,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,GIZI,2,34,36
+562,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,INSTALASI GAWAT DARURAT,1,0,1
+563,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,KIA,190,920,1110
+564,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,LANSIA,15,767,782
+565,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,PSIKOLOGI,3,52,55
+566,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,SANITASI,0,2,2
+567,Agustus,Surabaya Utara,Semampir,Puskesmas Wonokusumo,UMUM,265,2582,2847
+568,"","","","",TOTAL,,,314444
